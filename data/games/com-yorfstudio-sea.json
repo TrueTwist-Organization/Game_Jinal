@@ -1,0 +1,311 @@
+{
+  "slug": "com-yorfstudio-sea",
+  "title": "My Talking Angela 2",
+  "cover": "com-yorfstudio-sea.png",
+  "category": "Action",
+  "age": "4+",
+  "rating": "4.2",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "18 Million+",
+  "updated": "2023-07-18",
+  "size": "17 M+",
+  "description": "Download Z Escape - Zombie Machine Gun at no cost with easy installation. Completely safe with no malware or viruses. Always obtain the newest version effortlessly.",
+  "editor_review": "Dive into the thrilling action of Z Escape - Zombie Machine Gun! Step into the shoes of a brave helicopter sniper tasked with rescuing your team from waves of relentless zombies. Featuring breathtaking 3D graphics and engaging gameplay, this real-time strategy experience will keep you fully engaged. Utilize your sharp reflexes, tactical skills, and accurate shooting to halt the advance of zombies, demolish bridges, and save your squad. As you advance, unlock new weapons and characters to become the top sniper. Are you ready to rescue your team from the ravenous undead?",
+  "how_to_play": [
+    "Board the helicopter and take command of the Gatling gun",
+    "Aim for the zombies' heads",
+    "Eliminate all the bridges",
+    "Save every member of your team",
+    "Unlock every weapon and character available"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/z-escape-zombie-crowd-shooter/id1556515742",
+  "google_url": "https://play.google.com/store/apps/details?id=com.yorfstudio.sea",
+  "screenshots": [
+    "screenshots/com-yorfstudio-sea-0.png",
+    "screenshots/com-yorfstudio-sea-1.png",
+    "screenshots/com-yorfstudio-sea-2.png",
+    "screenshots/com-yorfstudio-sea-3.png",
+    "screenshots/com-yorfstudio-sea-4.png",
+    "screenshots/com-yorfstudio-sea-5.png",
+    "screenshots/com-yorfstudio-sea-6.png",
+    "screenshots/com-yorfstudio-sea-7.png",
+    "screenshots/com-yorfstudio-sea-8.png",
+    "screenshots/com-yorfstudio-sea-9.png",
+    "screenshots/com-yorfstudio-sea-10.png",
+    "screenshots/com-yorfstudio-sea-11.png",
+    "screenshots/com-yorfstudio-sea-12.png",
+    "screenshots/com-yorfstudio-sea-13.png",
+    "screenshots/com-yorfstudio-sea-14.png",
+    "screenshots/com-yorfstudio-sea-15.png",
+    "screenshots/com-yorfstudio-sea-16.png",
+    "screenshots/com-yorfstudio-sea-17.png",
+    "screenshots/com-yorfstudio-sea-18.png",
+    "screenshots/com-yorfstudio-sea-19.png",
+    "screenshots/com-yorfstudio-sea-20.png",
+    "screenshots/com-yorfstudio-sea-21.png",
+    "screenshots/com-yorfstudio-sea-22.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    }
+  ]
+}

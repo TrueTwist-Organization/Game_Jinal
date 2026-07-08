@@ -1,0 +1,302 @@
+{
+  "slug": "com-muscle-rush",
+  "title": "Roblox",
+  "cover": "com-muscle-rush.png",
+  "category": "Casual",
+  "age": "10+",
+  "rating": "4.5",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "86 Million+",
+  "updated": "2023-12-19",
+  "size": "82 M+",
+  "description": "Experience Muscle Rush - Smash Running - available for free download and straightforward installation. Completely secure with zero viruses or malware. Always access the most recent version effortlessly.",
+  "editor_review": "Want to get fit quickly? Look no further than MUSCLE RUSH, the ultimate running adventure that transforms you into a powerhouse of strength and vigor. Navigate challenging courses, tackle obstacles, take down musclebound foes, and engage in arm-wrestling duels against formidable bosses. Enhance your character with exciting skins, gather keys for cash, and smash through walls to proclaim your triumph. With engaging gameplay, strategic challenges, and quirky characters, MUSCLE RUSH will elevate you from underdog to top dog!",
+  "how_to_play": [
+    "Navigate through obstacle courses and create chaos behind you.",
+    "Enhance your abilities and strategies to tackle more difficult tasks.",
+    "Collect a variety of quirky characters and personalize your muscles.",
+    "Overcome barriers, gather keys, and boost your punch to take down adversaries.",
+    "Challenge yourself in intense arm-wrestling battles and prove your might."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/muscle-rush-destruction-run/id1561798675",
+  "google_url": "https://play.google.com/store/apps/details?id=com.muscle.rush",
+  "screenshots": [
+    "screenshots/com-muscle-rush-0.png",
+    "screenshots/com-muscle-rush-1.png",
+    "screenshots/com-muscle-rush-2.png",
+    "screenshots/com-muscle-rush-3.png",
+    "screenshots/com-muscle-rush-4.png",
+    "screenshots/com-muscle-rush-5.png",
+    "screenshots/com-muscle-rush-6.png",
+    "screenshots/com-muscle-rush-7.png",
+    "screenshots/com-muscle-rush-8.png",
+    "screenshots/com-muscle-rush-9.png",
+    "screenshots/com-muscle-rush-10.png",
+    "screenshots/com-muscle-rush-11.png",
+    "screenshots/com-muscle-rush-12.png",
+    "screenshots/com-muscle-rush-13.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    }
+  ]
+}

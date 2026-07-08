@@ -1,0 +1,295 @@
+{
+  "slug": "com-nianticlabs-pokemongo",
+  "title": "Pokémon GO",
+  "cover": "com-nianticlabs-pokemongo.png",
+  "category": "Adventure",
+  "age": "4+",
+  "rating": "4.1",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "483 Million+",
+  "updated": "2023-12-13",
+  "size": "461 M+",
+  "description": "Dive into the world of Pokémon GO - available for free and simple to install. Completely secure with no malware or viruses. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Step into a thrilling adventure with Pokémon GO, the worldwide gaming hit that has engaged over 1 billion fans globally! As you navigate the real world, you'll discover an incredible array of Pokémon just waiting to be caught. Complete your Pokédex and strive to become a Pokémon Master. The excitement doesn't end there! Collaborate with fellow Trainers for intense Gym battles and formidable Raid Battles. Furthermore, the new update brings the eagerly awaited GO Battle League, allowing you to challenge your skills against Trainers from all over the globe. Seize the opportunity - download Pokémon GO today and kickstart your real-world adventures!",
+  "how_to_play": [
+    "Uncover and encounter Pokémon in your surroundings",
+    "Capture more Pokémon to fill your Pokédex",
+    "Travel with your Buddy Pokémon to enhance their strength",
+    "Engage in thrilling Gym battles",
+    "Join forces with other Trainers for challenging Raid Battles"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/pokémon-go/id1094591345",
+  "google_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+  "screenshots": [
+    "screenshots/com-nianticlabs-pokemongo-0.png",
+    "screenshots/com-nianticlabs-pokemongo-1.png",
+    "screenshots/com-nianticlabs-pokemongo-2.png",
+    "screenshots/com-nianticlabs-pokemongo-3.png",
+    "screenshots/com-nianticlabs-pokemongo-4.png",
+    "screenshots/com-nianticlabs-pokemongo-5.png",
+    "screenshots/com-nianticlabs-pokemongo-6.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let&#x27;s Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    }
+  ]
+}

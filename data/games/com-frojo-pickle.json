@@ -1,0 +1,320 @@
+{
+  "slug": "com-frojo-pickle",
+  "title": "Pickle Pete: Survivor",
+  "cover": "com-frojo-pickle.png",
+  "category": "Action",
+  "age": "10+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "5 Million+",
+  "updated": "2023-12-19",
+  "size": "2 M+",
+  "description": "Dive into Pickle Pete: Survivor - available for free download and hassle-free installation. Completely secure with no viruses or malware. Always keep up with the latest version effortlessly.",
+  "editor_review": "Gear up for a thrilling action-filled journey in this top-down arena shooter! Engage in a fight against the forces of darkness while utilizing a variety of powerful automatic firearms. Survive relentless waves of foes with your trusty pickle, and employ unique abilities like a dodge roll to maintain an advantage. Discover vibrant arenas with distinctive enemy behaviors and challenge formidable bosses. With an extensive progression system, you have the flexibility to design infinite combinations of unique builds for every attempt. User-friendly controls and multiple game modes ensure this game is essential for fans of high-octane shooting fun.",
+  "how_to_play": [
+    "Perfect the dodge roll to evade enemy assaults",
+    "Try out various weapon combinations to optimize firepower",
+    "Face daunting boss encounters to protect the world",
+    "Venture through a variety of biomes, each featuring unique enemy mechanics",
+    "Utilize the progression system to craft distinctive builds in every run"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/pickle-pete-survivor/id6444362667",
+  "google_url": "https://play.google.com/store/apps/details?id=com.frojo.pickle",
+  "screenshots": [
+    "screenshots/com-frojo-pickle-0.png",
+    "screenshots/com-frojo-pickle-1.png",
+    "screenshots/com-frojo-pickle-2.png",
+    "screenshots/com-frojo-pickle-3.png",
+    "screenshots/com-frojo-pickle-4.png",
+    "screenshots/com-frojo-pickle-5.png",
+    "screenshots/com-frojo-pickle-6.png",
+    "screenshots/com-frojo-pickle-7.png",
+    "screenshots/com-frojo-pickle-8.png",
+    "screenshots/com-frojo-pickle-9.png",
+    "screenshots/com-frojo-pickle-10.png",
+    "screenshots/com-frojo-pickle-11.png",
+    "screenshots/com-frojo-pickle-12.png",
+    "screenshots/com-frojo-pickle-13.png",
+    "screenshots/com-frojo-pickle-14.png",
+    "screenshots/com-frojo-pickle-15.png",
+    "screenshots/com-frojo-pickle-16.png",
+    "screenshots/com-frojo-pickle-17.png",
+    "screenshots/com-frojo-pickle-18.png",
+    "screenshots/com-frojo-pickle-19.png",
+    "screenshots/com-frojo-pickle-20.png",
+    "screenshots/com-frojo-pickle-21.png",
+    "screenshots/com-frojo-pickle-22.png",
+    "screenshots/com-frojo-pickle-23.png",
+    "screenshots/com-frojo-pickle-24.png",
+    "screenshots/com-frojo-pickle-25.png",
+    "screenshots/com-frojo-pickle-26.png",
+    "screenshots/com-frojo-pickle-27.png",
+    "screenshots/com-frojo-pickle-28.png",
+    "screenshots/com-frojo-pickle-29.png",
+    "screenshots/com-frojo-pickle-30.png",
+    "screenshots/com-frojo-pickle-31.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy&#x27;s 2",
+      "image": "com-scottgames-fnaf2.png"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    }
+  ]
+}

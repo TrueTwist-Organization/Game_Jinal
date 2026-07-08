@@ -1,0 +1,312 @@
+{
+  "slug": "com-supercell-clashroyale",
+  "title": "Clash Royale",
+  "cover": "com-supercell-clashroyale.png",
+  "category": "Strategy",
+  "age": "10+",
+  "rating": "4.2",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "507 Million+",
+  "updated": "2023-12-20",
+  "size": "483 M+",
+  "description": "Download Clash Royale for free and enjoy a hassle-free installation. It's completely secure, free from viruses or malware. Always get the newest version effortlessly.",
+  "editor_review": "Step into the Arena and showcase your tactical skills in Clash Royale! Brought to you by the makers of Clash of Clans, this exhilarating real-time multiplayer combat game features beloved Clash characters and beyond. Create your Battle Deck, select diverse cards, and engage in swift battles with players worldwide. Topple the enemy's King and Princesses from their Towers to claim victory! With more than 100 cards to collect and enhance, you can craft the ultimate deck. Participate in global competitions, join or create a Clan, and fight your way to glory. Prepare for an action-packed adventure in the Arena!",
+  "how_to_play": [
+    "Strategically build your Battle Deck to outmaneuver your rivals",
+    "Defeat the enemy King and Princesses by destroying their Towers",
+    "Collect and upgrade over 100 cards that include troops, spells, and defenses from Clash of Clans",
+    "Take part in global tournaments to elevate your rank in the League",
+    "Join or establish a Clan to exchange cards and engage in Clan Wars for great rewards"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/clash-royale/id1053012308",
+  "google_url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
+  "screenshots": [
+    "screenshots/com-supercell-clashroyale-0.png",
+    "screenshots/com-supercell-clashroyale-1.png",
+    "screenshots/com-supercell-clashroyale-2.png",
+    "screenshots/com-supercell-clashroyale-3.png",
+    "screenshots/com-supercell-clashroyale-4.png",
+    "screenshots/com-supercell-clashroyale-5.png",
+    "screenshots/com-supercell-clashroyale-6.png",
+    "screenshots/com-supercell-clashroyale-7.png",
+    "screenshots/com-supercell-clashroyale-8.png",
+    "screenshots/com-supercell-clashroyale-9.png",
+    "screenshots/com-supercell-clashroyale-10.png",
+    "screenshots/com-supercell-clashroyale-11.png",
+    "screenshots/com-supercell-clashroyale-12.png",
+    "screenshots/com-supercell-clashroyale-13.png",
+    "screenshots/com-supercell-clashroyale-14.png",
+    "screenshots/com-supercell-clashroyale-15.png",
+    "screenshots/com-supercell-clashroyale-16.png",
+    "screenshots/com-supercell-clashroyale-17.png",
+    "screenshots/com-supercell-clashroyale-18.png",
+    "screenshots/com-supercell-clashroyale-19.png",
+    "screenshots/com-supercell-clashroyale-20.png",
+    "screenshots/com-supercell-clashroyale-21.png",
+    "screenshots/com-supercell-clashroyale-22.png",
+    "screenshots/com-supercell-clashroyale-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    }
+  ]
+}

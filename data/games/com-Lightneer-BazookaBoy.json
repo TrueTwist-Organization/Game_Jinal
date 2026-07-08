@@ -1,0 +1,296 @@
+{
+  "slug": "com-Lightneer-BazookaBoy",
+  "title": "Bazooka Boy",
+  "cover": "com-lightneer-bazookaboy.png",
+  "category": "Action",
+  "age": "4+",
+  "rating": "4.1",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "99 Million+",
+  "updated": "2023-12-19",
+  "size": "92 M+",
+  "description": "Experience Bazooka Boy - available for free download and simple installation. Completely secure with no threats or malware. Always have easy access to the most recent version.",
+  "editor_review": "Prepare for a thrilling adventure in this high-energy game! Smash through levels, obliterate obstacles, and gather incredible weapons to unleash your might. With gratifying destruction and limitless shooting options, you'll find yourself captivated from the very beginning. The stunning explosive visuals and exceptional physics create a distinct challenge in every level. Can you navigate them all without falling victim to a misfire? Dive into the action and eliminate all foes to claim your victory!",
+  "how_to_play": [
+    "Navigate levels and demolish anything in your path",
+    "Gather and master a range of distinct weapons",
+    "Send your foes soaring and devastate their structures",
+    "Leverage physics and problem-solving abilities for success",
+    "Steer clear of self-destruction with poor shots"
+  ],
+  "apple_url": "null",
+  "google_url": "https://play.google.com/store/apps/details?id=com.Lightneer.BazookaBoy",
+  "screenshots": [
+    "screenshots/com-lightneer-bazookaboy-0.png",
+    "screenshots/com-lightneer-bazookaboy-1.png",
+    "screenshots/com-lightneer-bazookaboy-2.png",
+    "screenshots/com-lightneer-bazookaboy-3.png",
+    "screenshots/com-lightneer-bazookaboy-4.png",
+    "screenshots/com-lightneer-bazookaboy-5.png",
+    "screenshots/com-lightneer-bazookaboy-6.png",
+    "screenshots/com-lightneer-bazookaboy-7.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "https://warap.net/images/com-oppanagames-car-simulator.png",
+      "image": "Car Simulator 2"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-glofta9hm.png",
+      "image": "Asphalt 9: Legends"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdyhm.png",
+      "image": "Disney Magic Kingdoms"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "https://warap.net/images/com-halfbrick-fruitninjax.png",
+      "image": "Fruit Ninja 2 Fun Action Games"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "https://warap.net/images/com-scottgames-fnaf3.png",
+      "image": "Five Nights at Freddy&#x27;s 3"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "https://warap.net/images/com-dxm-nopuzzle.png",
+      "image": "Block Puzzle"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "https://warap.net/images/com-fungames-sniper3d.png",
+      "image": "Sniper 3D：Gun Shooting Games"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    }
+  ]
+}

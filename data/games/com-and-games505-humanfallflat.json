@@ -1,0 +1,312 @@
+{
+  "slug": "com-and-games505-humanfallflat",
+  "title": "Toca Life World: Build a Story",
+  "cover": "com-and-games505-humanfallflat.png",
+  "category": "Puzzle",
+  "age": "4+",
+  "rating": "3.7",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "807 Thousand+",
+  "updated": "2023-09-14",
+  "size": "60 W+",
+  "description": "Dive into the world of Human Fall Flat - available for free download and simple installation. Completely safe, free from viruses and malware. Always access the newest version effortlessly.",
+  "editor_review": "Prepare for a comical and physics-driven experience in Human Fall Flat! This whimsical platformer invites you to traverse through surreal dream landscapes, where exploration and solving captivating puzzles await. Engage solo or collaborate with friends in online multiplayer for added chaos. Personalize your character with an array of outfits and unleash your creativity with colors. With continuously added free levels and a lively community of streamers and YouTubers, there's always new excitement around every corner in Human Fall Flat!",
+  "how_to_play": [
+    "Navigate through open-ended environments and tackle tricky puzzles",
+    "Customize your avatar with a variety of outfits",
+    "Team up with up to 4 players in online multiplayer mode",
+    "Access new levels and frequent updates for free",
+    "Become part of a dynamic community of streamers and YouTubers"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/human-fall-flat/id1438091392",
+  "google_url": "https://play.google.com/store/apps/details?id=com.and.games505.humanfallflat",
+  "screenshots": [
+    "screenshots/com-and-games505-humanfallflat-0.png",
+    "screenshots/com-and-games505-humanfallflat-1.png",
+    "screenshots/com-and-games505-humanfallflat-2.png",
+    "screenshots/com-and-games505-humanfallflat-3.png",
+    "screenshots/com-and-games505-humanfallflat-4.png",
+    "screenshots/com-and-games505-humanfallflat-5.png",
+    "screenshots/com-and-games505-humanfallflat-6.png",
+    "screenshots/com-and-games505-humanfallflat-7.png",
+    "screenshots/com-and-games505-humanfallflat-8.png",
+    "screenshots/com-and-games505-humanfallflat-9.png",
+    "screenshots/com-and-games505-humanfallflat-10.png",
+    "screenshots/com-and-games505-humanfallflat-11.png",
+    "screenshots/com-and-games505-humanfallflat-12.png",
+    "screenshots/com-and-games505-humanfallflat-13.png",
+    "screenshots/com-and-games505-humanfallflat-14.png",
+    "screenshots/com-and-games505-humanfallflat-15.png",
+    "screenshots/com-and-games505-humanfallflat-16.png",
+    "screenshots/com-and-games505-humanfallflat-17.png",
+    "screenshots/com-and-games505-humanfallflat-18.png",
+    "screenshots/com-and-games505-humanfallflat-19.png",
+    "screenshots/com-and-games505-humanfallflat-20.png",
+    "screenshots/com-and-games505-humanfallflat-21.png",
+    "screenshots/com-and-games505-humanfallflat-22.png",
+    "screenshots/com-and-games505-humanfallflat-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    }
+  ]
+}

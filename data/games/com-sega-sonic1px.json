@@ -1,0 +1,303 @@
+{
+  "slug": "com-sega-sonic1px",
+  "title": "Sonic the Hedgehog™ Classic",
+  "cover": "com-sega-sonic1px.png",
+  "category": "Action",
+  "age": "4+",
+  "rating": "4.1",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "61 Million+",
+  "updated": "2023-11-07",
+  "size": "59 M+",
+  "description": "Dive into Sonic the Hedgehog™ Classic - available for free download and simple installation. Completely secure with no malware or viruses. Always enjoy hassle-free access to the most recent version.",
+  "editor_review": "Are you prepared for a trip down memory lane with Sonic the Hedgehog? Speed through levels, gather rings, and vanquish villains in this beloved SEGA title, now enhanced for mobile! With fluid controls and a revamped soundtrack, Sonic returns in top form. Test your skills in the new Time Attack mode and unlock characters like Tails and Knuckles. Relive the excitement of 90's arcade gaming with the legendary Sonic the Hedgehog. Get set to race!",
+  "how_to_play": [
+    "Dash through seven classic zones as Sonic the Hedgehog.",
+    "Assist Sonic and his allies in defeating the notorious Mr. Eggman.",
+    "Put your skills to the test in the new Time Attack mode.",
+    "Play as Sonic's companions Tails and Knuckles for the first time ever.",
+    "Relish the updated soundtrack and enhanced gameplay experience."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/sonic-the-hedgehog-classic/id316025912",
+  "google_url": "https://play.google.com/store/apps/details?id=com.sega.sonic1px",
+  "screenshots": [
+    "screenshots/com-sega-sonic1px-0.png",
+    "screenshots/com-sega-sonic1px-1.png",
+    "screenshots/com-sega-sonic1px-2.png",
+    "screenshots/com-sega-sonic1px-3.png",
+    "screenshots/com-sega-sonic1px-4.png",
+    "screenshots/com-sega-sonic1px-5.png",
+    "screenshots/com-sega-sonic1px-6.png",
+    "screenshots/com-sega-sonic1px-7.png",
+    "screenshots/com-sega-sonic1px-8.png",
+    "screenshots/com-sega-sonic1px-9.png",
+    "screenshots/com-sega-sonic1px-10.png",
+    "screenshots/com-sega-sonic1px-11.png",
+    "screenshots/com-sega-sonic1px-12.png",
+    "screenshots/com-sega-sonic1px-13.png",
+    "screenshots/com-sega-sonic1px-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "https://warap.net/images/com-aim-racing.png",
+      "image": "Extreme Car Driving Simulator"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "https://warap.net/images/com-supercell-hayday.png",
+      "image": "Hay Day"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "https://warap.net/images/com-nianticlabs-pokemongo.png",
+      "image": "Pokémon GO"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingangela2.png",
+      "image": "My Talking Angela 2"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "https://warap.net/images/com-azurgames-stackball.png",
+      "image": "Stack Ball - Crash Platforms"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "https://warap.net/images/com-jamcity-blackforest_goo.png",
+      "image": "Disney Frozen Adventures"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "https://warap.net/images/com-dynlwpp-atur129.png",
+      "image": "Drawing Carnival"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "https://warap.net/images/com-matteljv-uno.png",
+      "image": "UNO!™"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "slug": "com-dreamgames-royalmatch",
+  "title": "Royal Match",
+  "cover": "com-dreamgames-royalmatch.png",
+  "category": "Puzzle",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "136 Million+",
+  "updated": "2023-12-22",
+  "size": "71 M+",
+  "description": "Play Royal Match - available for free download and simple installation. Completely secure with no malware or viruses. Always stay updated with the latest version easily.",
+  "editor_review": "Enter the world of Royal Match, a top-tier puzzle game! Join King Robert on a thrilling quest to beautify his castle. Tackle challenging match-3 puzzles in the Royal Arena, gather coins to unlock new regions, and face off against millions of players in exciting events. Enjoy endless fun without ads or the need for internet access. Create explosive boosters, gather unique treasures, and maneuver through obstacles to earn fantastic rewards. Discover different rooms within King Robert's castle, such as the kitchen, garden, and garage, and invite your friends on Facebook to climb the leaderboards together. Download now for an engaging and captivating gameplay experience!",
+  "how_to_play": [
+    "Swipe colors to complete match-3 challenges",
+    "Collect coins to access new regions",
+    "Participate in thrilling events for prizes",
+    "Explore and enhance King Robert's castle",
+    "Invite friends on Facebook to dominate the leaderboard"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/royal-match/id1482155847",
+  "google_url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch",
+  "screenshots": [
+    "screenshots/com-dreamgames-royalmatch-0.png",
+    "screenshots/com-dreamgames-royalmatch-1.png",
+    "screenshots/com-dreamgames-royalmatch-2.png",
+    "screenshots/com-dreamgames-royalmatch-3.png",
+    "screenshots/com-dreamgames-royalmatch-4.png",
+    "screenshots/com-dreamgames-royalmatch-5.png",
+    "screenshots/com-dreamgames-royalmatch-6.png",
+    "screenshots/com-dreamgames-royalmatch-7.png",
+    "screenshots/com-dreamgames-royalmatch-8.png",
+    "screenshots/com-dreamgames-royalmatch-9.png",
+    "screenshots/com-dreamgames-royalmatch-10.png",
+    "screenshots/com-dreamgames-royalmatch-11.png",
+    "screenshots/com-dreamgames-royalmatch-12.png",
+    "screenshots/com-dreamgames-royalmatch-13.png",
+    "screenshots/com-dreamgames-royalmatch-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "https://warap.net/images/com-nianticlabs-pokemongo.png",
+      "image": "Pokémon GO"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "https://warap.net/images/air-com-aceviral-motox3m.png",
+      "image": "Moto X3M Bike Race Game"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "https://warap.net/images/com-tocaboca-tocakitchen2.png",
+      "image": "Toca Boca Jr"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "https://warap.net/images/com-water-balls.png",
+      "image": "Sand Balls - Puzzle Game"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "https://warap.net/images/com-kiloo-subwaysurf.png",
+      "image": "Subway Surfers"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "https://warap.net/images/com-mobgames-poppymobilechap1.png",
+      "image": "Poppy Playtime Chapter 1"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "https://warap.net/images/com-dxm-nopuzzle.png",
+      "image": "Block Puzzle"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "https://warap.net/images/com-halfbrick-fruitninjax.png",
+      "image": "Fruit Ninja 2 Fun Action Games"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "https://warap.net/images/air-com-hypah-io-slither.png",
+      "image": "slither.io"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    }
+  ]
+}

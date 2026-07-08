@@ -1,0 +1,312 @@
+{
+  "slug": "com-microsoft-microsoftsolitairecollection",
+  "title": "Microsoft Solitaire Collection",
+  "cover": "com-microsoft-microsoftsolitairecollection.png",
+  "category": "Card",
+  "age": "4+",
+  "rating": "4.2",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "11 Million+",
+  "updated": "2023-11-28",
+  "size": "11 M+",
+  "description": "Download the Microsoft Solitaire Collection for free and install it with ease. Completely secure with zero viruses or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Prepare for endless entertainment with the Microsoft Solitaire Collection! It features a range of beloved card games including Klondike, Spider, FreeCell, TriPeaks, and Pyramid Solitaire, offering something enjoyable for everyone. Test your abilities with daily challenges, special events, and rewards, and unlock over 75 achievements to showcase your Solitaire prowess. With various game modes, themes, and card designs available, you can tailor your Solitaire experience to fit your preferences. Additionally, you can save your game progress and enjoy playing across different devices, making it easy to dive into Solitaire wherever you are. Join the community of millions of players around the globe and start your journey with Microsoft Solitaire Collection today!",
+  "how_to_play": [
+    "Eliminate all cards from the gameplay area using either one or three-card draw in Klondike Solitaire",
+    "Clear all columns using the least number of moves in Spider Solitaire",
+    "Utilize the four free cell spaces to strategically reposition cards in FreeCell Solitaire",
+    "Select cards in a sequence aiming to clear the board in TriPeaks Solitaire",
+    "Merge two cards that sum to 13 to remove them in Pyramid Solitaire"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/microsoft-solitaire-collection/id1103438575",
+  "google_url": "https://play.google.com/store/apps/details?id=com.microsoft.microsoftsolitairecollection",
+  "screenshots": [
+    "screenshots/com-microsoft-microsoftsolitairecollection-0.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-1.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-2.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-3.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-4.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-5.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-6.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-7.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-8.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-9.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-10.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-11.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-12.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-13.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-14.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-15.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-16.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-17.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-18.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-19.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-20.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-21.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-22.png",
+    "screenshots/com-microsoft-microsoftsolitairecollection-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-roblox-client",
+      "title": "https://warap.net/images/com-roblox-client.png",
+      "image": "Roblox"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "https://warap.net/images/com-peppapig-worldofpeppapig_g.png",
+      "image": "World of Peppa Pig: Kids Games"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "https://warap.net/images/com-innersloth-spacemafia.png",
+      "image": "Among Us"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "https://warap.net/images/com-rovio-abcasual.png",
+      "image": "Angry Birds Journey"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "https://warap.net/images/com-playrix-gardenscapes.png",
+      "image": "Gardenscapes"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "https://warap.net/images/com-playrix-fishdomdd-gplay.png",
+      "image": "Fishdom"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "https://warap.net/images/com-v06-car-driving-mega-city.png",
+      "image": "Real Car Driving: Race City 3D"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-glofta9hm.png",
+      "image": "Asphalt 9: Legends"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "https://warap.net/images/com-kongregate-mobile-tmnt-google.png",
+      "image": "TMNT: Mutant Madness"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    }
+  ]
+}

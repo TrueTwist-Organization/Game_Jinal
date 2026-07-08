@@ -1,0 +1,312 @@
+{
+  "slug": "com-atreus-colorrunner",
+  "title": "Colors Runners!",
+  "cover": "com-atreus-colorrunner.png",
+  "category": "Action",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "2 Million+",
+  "updated": "2022-10-29",
+  "size": "2 M+",
+  "description": "Experience Colors Runners! - available for free download and easy setup. Completely secure with no malware or viruses. Always get the latest version effortlessly.",
+  "editor_review": "Protect your characters from the menacing drone by placing them in the appropriate color zone. This engaging game is more challenging than it appears, offering hours of thrilling and entertaining gameplay. Can you outsmart the drone and keep your characters alive? Sharpen your reflexes and enhance your puzzle-solving abilities in this exciting, fast-paced game. With its straightforward yet captivating premise, this game appeals to players of all ages. Prepare yourself for an exhilarating journey and enjoy the fun!",
+  "how_to_play": [
+    "Evade the menacing drone by guiding your characters into the right color zone.",
+    "Strategically think ahead and plan your moves wisely to rescue all your characters.",
+    "The challenges ramp up as you advance, so maintain your focus and be ready for obstacles.",
+    "Test your reflexes and problem-solving skills to reach impressive high scores.",
+    "Immerse yourself in the captivating gameplay and discover how far you can progress!"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/colors-runners/id1621294453",
+  "google_url": "https://play.google.com/store/apps/details?id=com.atreus.colorrunner",
+  "screenshots": [
+    "screenshots/com-atreus-colorrunner-0.png",
+    "screenshots/com-atreus-colorrunner-1.png",
+    "screenshots/com-atreus-colorrunner-2.png",
+    "screenshots/com-atreus-colorrunner-3.png",
+    "screenshots/com-atreus-colorrunner-4.png",
+    "screenshots/com-atreus-colorrunner-5.png",
+    "screenshots/com-atreus-colorrunner-6.png",
+    "screenshots/com-atreus-colorrunner-7.png",
+    "screenshots/com-atreus-colorrunner-8.png",
+    "screenshots/com-atreus-colorrunner-9.png",
+    "screenshots/com-atreus-colorrunner-10.png",
+    "screenshots/com-atreus-colorrunner-11.png",
+    "screenshots/com-atreus-colorrunner-12.png",
+    "screenshots/com-atreus-colorrunner-13.png",
+    "screenshots/com-atreus-colorrunner-14.png",
+    "screenshots/com-atreus-colorrunner-15.png",
+    "screenshots/com-atreus-colorrunner-16.png",
+    "screenshots/com-atreus-colorrunner-17.png",
+    "screenshots/com-atreus-colorrunner-18.png",
+    "screenshots/com-atreus-colorrunner-19.png",
+    "screenshots/com-atreus-colorrunner-20.png",
+    "screenshots/com-atreus-colorrunner-21.png",
+    "screenshots/com-atreus-colorrunner-22.png",
+    "screenshots/com-atreus-colorrunner-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "https://warap.net/images/com-azurgames-stackball.png",
+      "image": "Stack Ball - Crash Platforms"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "https://warap.net/images/com-motionvolt-flipbounce.png",
+      "image": "Flip Master"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "https://warap.net/images/com-supercell-clashroyale.png",
+      "image": "Clash Royale"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "https://warap.net/images/com-topfreegames-bikeracefreeworld.png",
+      "image": "Bike Race：Motorcycle Games"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "https://warap.net/images/com-edujoy-masha-games.png",
+      "image": "Masha and the Bear Educational"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "https://warap.net/images/com-scottgames-fnaf3.png",
+      "image": "Five Nights at Freddy&#x27;s 3"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "https://warap.net/images/com-tocaboca-tocalifeworld.png",
+      "image": "Toca Life World: Build a Story"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "https://warap.net/images/com-imangi-templerun2.png",
+      "image": "Temple Run 2"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "https://warap.net/images/com-mobgames-poppymobilechap1.png",
+      "image": "Poppy Playtime Chapter 1"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    }
+  ]
+}

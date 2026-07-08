@@ -1,0 +1,303 @@
+{
+  "slug": "com-rockstargames-bully",
+  "title": "Bully: Anniversary Edition",
+  "cover": "com-rockstargames-bully.png",
+  "category": "Action",
+  "age": "4+",
+  "rating": "2",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "495 Thousand+",
+  "updated": "2018-12-06",
+  "size": "48 W+",
+  "description": "Download Bully: Anniversary Edition without any cost and install it effortlessly. 100% secure, free from viruses and malware. Always stay updated with the latest version easily.",
+  "editor_review": "👋 Welcome to Bully: Anniversary Edition! Get ready for an exciting journey as you step into the shoes of the mischievous 15-year-old Jimmy Hopkins, as you navigate the social landscape of Bullworth Academy. Face bullies, play tricks on teachers, and outsmart your peers during a challenging year at this notorious school. This edition comes with improved graphics, touch gameplay, multiplayer challenges, and much more. Are you prepared to conquer the school environment? 🎒",
+  "how_to_play": [
+    "📐 Explore the campus and fulfill missions to advance.",
+    "🏫 Engage in classroom mini-games to test your skills against friends.",
+    "🎮 Utilize smart touch controls for a fluid gaming experience.",
+    "🔁 Save your progress across devices with cloud functionality.",
+    "🎮 Take advantage of physical controller support for an enhanced experience."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/bully-anniversary-edition/id1148321705",
+  "google_url": "https://play.google.com/store/apps/details?id=com.rockstargames.bully",
+  "screenshots": [
+    "screenshots/com-rockstargames-bully-0.png",
+    "screenshots/com-rockstargames-bully-1.png",
+    "screenshots/com-rockstargames-bully-2.png",
+    "screenshots/com-rockstargames-bully-3.png",
+    "screenshots/com-rockstargames-bully-4.png",
+    "screenshots/com-rockstargames-bully-5.png",
+    "screenshots/com-rockstargames-bully-6.png",
+    "screenshots/com-rockstargames-bully-7.png",
+    "screenshots/com-rockstargames-bully-8.png",
+    "screenshots/com-rockstargames-bully-9.png",
+    "screenshots/com-rockstargames-bully-10.png",
+    "screenshots/com-rockstargames-bully-11.png",
+    "screenshots/com-rockstargames-bully-12.png",
+    "screenshots/com-rockstargames-bully-13.png",
+    "screenshots/com-rockstargames-bully-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "https://warap.net/images/com-nianticlabs-pokemongo.png",
+      "image": "Pokémon GO"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "https://warap.net/images/com-fungames-sniper3d.png",
+      "image": "Sniper 3D：Gun Shooting Games"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "https://warap.net/images/com-codengamesinc-highwayracer3d.png",
+      "image": "Highway Racer 3D"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtom2.png",
+      "image": "My Talking Tom 2"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "https://warap.net/images/com-tocaboca-tocalifeworld.png",
+      "image": "Toca Life World: Build a Story"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "https://warap.net/images/com-peppapig-worldofpeppapig_g.png",
+      "image": "World of Peppa Pig: Kids Games"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "https://warap.net/images/com-clickteam-ultimatecustomnight.png",
+      "image": "Ultimate Custom Night"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "https://warap.net/images/com-game-colorroll3d.png",
+      "image": "Color Roll 3D"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "https://warap.net/images/com-aim-racing.png",
+      "image": "Extreme Car Driving Simulator"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    }
+  ]
+}

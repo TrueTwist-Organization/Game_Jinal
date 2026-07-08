@@ -1,0 +1,309 @@
+{
+  "slug": "com-ea-gp-simsmobile",
+  "title": "TSM",
+  "cover": "com-ea-gp-simsmobile.png",
+  "category": "Simulation",
+  "age": "4+",
+  "rating": "4.2",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "87 Million+",
+  "updated": "2023-12-07",
+  "size": "84 M+",
+  "description": "Download TSM at no cost and install it with ease. Completely secure, free from viruses and malware. Always stay updated with the newest version effortlessly.",
+  "editor_review": "Dive into the world of The Sims Mobile where you can create unique Sims, tweak their looks and traits, and construct their ideal homes! With limitless possibilities for customization, you can guide your Sims through diverse careers, build relationships, and partake in social events. Connect with friends, host gatherings, and even share living spaces with other Sims. Prepare to face the thrills and challenges of life in The Sims Mobile!",
+  "how_to_play": [
+    "Personalize your Sims' appearances, clothing, and characteristics.",
+    "Craft and decorate your Sims' homes with an array of furniture and decor.",
+    "Steer your Sims through their careers and personal relationships.",
+    "Throw and join parties to mix and mingle, earning rewards in the process.",
+    "Collaborate with friends and engage with other players' Sims."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/the-sims-mobile/id1144258115",
+  "google_url": "https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile",
+  "screenshots": [
+    "screenshots/com-ea-gp-simsmobile-0.png",
+    "screenshots/com-ea-gp-simsmobile-1.png",
+    "screenshots/com-ea-gp-simsmobile-2.png",
+    "screenshots/com-ea-gp-simsmobile-3.png",
+    "screenshots/com-ea-gp-simsmobile-4.png",
+    "screenshots/com-ea-gp-simsmobile-5.png",
+    "screenshots/com-ea-gp-simsmobile-6.png",
+    "screenshots/com-ea-gp-simsmobile-7.png",
+    "screenshots/com-ea-gp-simsmobile-8.png",
+    "screenshots/com-ea-gp-simsmobile-9.png",
+    "screenshots/com-ea-gp-simsmobile-10.png",
+    "screenshots/com-ea-gp-simsmobile-11.png",
+    "screenshots/com-ea-gp-simsmobile-12.png",
+    "screenshots/com-ea-gp-simsmobile-13.png",
+    "screenshots/com-ea-gp-simsmobile-14.png",
+    "screenshots/com-ea-gp-simsmobile-15.png",
+    "screenshots/com-ea-gp-simsmobile-16.png",
+    "screenshots/com-ea-gp-simsmobile-17.png",
+    "screenshots/com-ea-gp-simsmobile-18.png",
+    "screenshots/com-ea-gp-simsmobile-19.png",
+    "screenshots/com-ea-gp-simsmobile-20.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "https://warap.net/images/com-santascary-horrorgranny.png",
+      "image": "Scary Santa Granny"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "https://warap.net/images/air-com-hypah-io-slither.png",
+      "image": "slither.io"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "https://warap.net/images/com-v06-car-driving-mega-city.png",
+      "image": "Real Car Driving: Race City 3D"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "https://warap.net/images/com-crazy-block-robo-monster-cliffs-craft.png",
+      "image": "Block Crazy Robo World"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "https://warap.net/images/com-youmusic-magictiles.png",
+      "image": "Magic Tiles 3"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "https://warap.net/images/com-imangi-templerun2.png",
+      "image": "Temple Run 2"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "https://warap.net/images/com-kitkagames-fallbuddies.png",
+      "image": "Stumble Guys"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "https://warap.net/images/com-game-colorroll3d.png",
+      "image": "Color Roll 3D"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "https://warap.net/images/com-roblox-client.png",
+      "image": "Roblox"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "https://warap.net/images/in-playsimple-wordsearch.png",
+      "image": "Word Search Explorer"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "https://warap.net/images/com-edujoy-masha-games.png",
+      "image": "Masha and the Bear Educational"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "https://warap.net/images/com-fungames-sniper3d.png",
+      "image": "Sniper 3D：Gun Shooting Games"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    }
+  ]
+}

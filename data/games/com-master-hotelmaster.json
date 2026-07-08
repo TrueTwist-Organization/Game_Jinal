@@ -1,0 +1,313 @@
+{
+  "slug": "com-master-hotelmaster",
+  "title": "My Perfect Hotel",
+  "cover": "com-master-hotelmaster.png",
+  "category": "Arcade",
+  "age": "4+",
+  "rating": "4.4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "71 Million+",
+  "updated": "2023-12-18",
+  "size": "35 M+",
+  "description": "Experience My Perfect Hotel - available for free download with simple installation. Completely secure with no risks of viruses or malware. Easily access the latest updates.",
+  "editor_review": "🏨 Ever dreamed of managing your own hotel? With My Perfect Hotel, you can establish your own hospitality empire from scratch! This captivating time-management game lets you demonstrate your expertise as a hotel manager, make smart investments, and rise to prominence as a hospitality mogul. Enhance rooms, facilities, and recruit staff to satisfy increasing demand. Each unique hotel presents different styles and atmospheres to explore along with special upgrades. Remember to offer amenities, oversee human resources, and create beautiful rooms. Become a real hotel mogul in this engaging and fast-paced simulator!",
+  "how_to_play": [
+    "🧳 Ascend the ranks by overseeing rooms, reception, and guest services.",
+    "🏨 Discover and expand various hotels with distinct improvements.",
+    "🔑 Boost revenue by enhancing movement speed.",
+    "💰 Increase profits through extra amenities.",
+    "👔 Recruit staff and manage resources for guest satisfaction.",
+    "🎀 Renovate accommodations and unleash your inner designer."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/my-perfect-hotel/id1635760774",
+  "google_url": "https://play.google.com/store/apps/details?id=com.master.hotelmaster",
+  "screenshots": [
+    "screenshots/com-master-hotelmaster-0.png",
+    "screenshots/com-master-hotelmaster-1.png",
+    "screenshots/com-master-hotelmaster-2.png",
+    "screenshots/com-master-hotelmaster-3.png",
+    "screenshots/com-master-hotelmaster-4.png",
+    "screenshots/com-master-hotelmaster-5.png",
+    "screenshots/com-master-hotelmaster-6.png",
+    "screenshots/com-master-hotelmaster-7.png",
+    "screenshots/com-master-hotelmaster-8.png",
+    "screenshots/com-master-hotelmaster-9.png",
+    "screenshots/com-master-hotelmaster-10.png",
+    "screenshots/com-master-hotelmaster-11.png",
+    "screenshots/com-master-hotelmaster-12.png",
+    "screenshots/com-master-hotelmaster-13.png",
+    "screenshots/com-master-hotelmaster-14.png",
+    "screenshots/com-master-hotelmaster-15.png",
+    "screenshots/com-master-hotelmaster-16.png",
+    "screenshots/com-master-hotelmaster-17.png",
+    "screenshots/com-master-hotelmaster-18.png",
+    "screenshots/com-master-hotelmaster-19.png",
+    "screenshots/com-master-hotelmaster-20.png",
+    "screenshots/com-master-hotelmaster-21.png",
+    "screenshots/com-master-hotelmaster-22.png",
+    "screenshots/com-master-hotelmaster-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "https://warap.net/images/air-com-flipline-papasfreezeriatogo.png",
+      "image": "Papa&#x27;s Freezeria To Go!"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "https://warap.net/images/com-kitkagames-fallbuddies.png",
+      "image": "Stumble Guys"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "https://warap.net/images/com-dynlwpp-atur129.png",
+      "image": "Drawing Carnival"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "https://warap.net/images/in-playsimple-wordsearch.png",
+      "image": "Word Search Explorer"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "https://warap.net/images/com-motionvolt-flipbounce.png",
+      "image": "Flip Master"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "https://warap.net/images/com-kiloo-subwaysurf.png",
+      "image": "Subway Surfers"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "https://warap.net/images/com-weup-grimace-monster-scary-survival.png",
+      "image": "Grima Monster Scary Survival"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "https://warap.net/images/com-mojang-minecraftpe.png",
+      "image": "Minecraft"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    }
+  ]
+}

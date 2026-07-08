@@ -1,0 +1,296 @@
+{
+  "slug": "com-nianticlabs-pikmin",
+  "title": "Pikmin Bloom",
+  "cover": "com-nianticlabs-pikmin.png",
+  "category": "Adventure",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "3 Million+",
+  "updated": "2023-12-05",
+  "size": "3 M+",
+  "description": "Dive into Pikmin Bloom - available for free download and simple installation. Completely secure with no viruses or malware. Effortlessly stay updated with the latest version.",
+  "editor_review": "Discover the environment and reap rewards with Pikmin Bloom! 🌸 Collaborate with friends to tackle challenges, gather exclusive Decor Pikmin, and adorn your surroundings with vibrant blossoms. 🌺 With more than 150 varieties of Pikmin to unearth, each sporting its own whimsical gear, there's no shortage of excitement. 🌼 Plus, join forces with your ideal team to conquer mushrooms and reveal rare fruits. 🍄🍎 So pick up your phone, venture outdoors, and let’s make the world flourish together!",
+  "how_to_play": [
+    "Walk around to discover seedlings and fruit",
+    "Collaborate with friends for shared step goals",
+    "Beautify your community with stunning flowers",
+    "Choose your ideal Pikmin team to boost your score",
+    "Defeat mushrooms to gain rewards"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/pikmin-bloom/id1556357398",
+  "google_url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin",
+  "screenshots": [
+    "screenshots/com-nianticlabs-pikmin-0.png",
+    "screenshots/com-nianticlabs-pikmin-1.png",
+    "screenshots/com-nianticlabs-pikmin-2.png",
+    "screenshots/com-nianticlabs-pikmin-3.png",
+    "screenshots/com-nianticlabs-pikmin-4.png",
+    "screenshots/com-nianticlabs-pikmin-5.png",
+    "screenshots/com-nianticlabs-pikmin-6.png",
+    "screenshots/com-nianticlabs-pikmin-7.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    }
+  ]
+}

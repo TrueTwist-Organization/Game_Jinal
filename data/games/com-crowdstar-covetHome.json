@@ -1,0 +1,312 @@
+{
+  "slug": "com-crowdstar-covetHome",
+  "title": "Design Home™: House Makeover",
+  "cover": "com-crowdstar-covethome.png",
+  "category": "Simulation",
+  "age": "4+",
+  "rating": "4.3",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "67 Million+",
+  "updated": "2023-12-05",
+  "size": "65 M+",
+  "description": "Experience Design Home™: House Makeover - available for free download and easy installation. Completely secure with no viruses or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Design Home delivers the perfect blend of interior and exterior design in an engaging and entertaining format. Step into the role of an interior designer and let your imagination soar while you decorate your ideal home. With a diverse selection of trendy home decor brands at your disposal, you can turn your design ideas into reality using an incredibly immersive room planning tool. Beyond a mere game, Design Home embodies a way of life. Challenge yourself with design tasks, craft and decorate living spaces, and achieve the home you’ve always envisioned.",
+  "how_to_play": [
+    "Complete design tasks to earn exciting rewards",
+    "Browse and choose from a vast array of home decor brands",
+    "Personalize and style both indoor and outdoor areas",
+    "Use a realistic room planner for accurate designs",
+    "Express your creativity and construct the home of your desires"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/design-home-lifestyle-game/id1010962391",
+  "google_url": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome",
+  "screenshots": [
+    "screenshots/com-crowdstar-covethome-0.png",
+    "screenshots/com-crowdstar-covethome-1.png",
+    "screenshots/com-crowdstar-covethome-2.png",
+    "screenshots/com-crowdstar-covethome-3.png",
+    "screenshots/com-crowdstar-covethome-4.png",
+    "screenshots/com-crowdstar-covethome-5.png",
+    "screenshots/com-crowdstar-covethome-6.png",
+    "screenshots/com-crowdstar-covethome-7.png",
+    "screenshots/com-crowdstar-covethome-8.png",
+    "screenshots/com-crowdstar-covethome-9.png",
+    "screenshots/com-crowdstar-covethome-10.png",
+    "screenshots/com-crowdstar-covethome-11.png",
+    "screenshots/com-crowdstar-covethome-12.png",
+    "screenshots/com-crowdstar-covethome-13.png",
+    "screenshots/com-crowdstar-covethome-14.png",
+    "screenshots/com-crowdstar-covethome-15.png",
+    "screenshots/com-crowdstar-covethome-16.png",
+    "screenshots/com-crowdstar-covethome-17.png",
+    "screenshots/com-crowdstar-covethome-18.png",
+    "screenshots/com-crowdstar-covethome-19.png",
+    "screenshots/com-crowdstar-covethome-20.png",
+    "screenshots/com-crowdstar-covethome-21.png",
+    "screenshots/com-crowdstar-covethome-22.png",
+    "screenshots/com-crowdstar-covethome-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    }
+  ]
+}

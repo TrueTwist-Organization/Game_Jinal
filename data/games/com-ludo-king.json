@@ -1,0 +1,320 @@
+{
+  "slug": "com-ludo-king",
+  "title": "Ludo King™",
+  "cover": "com-ludo-king.png",
+  "category": "Board",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "989 Million+",
+  "updated": "2023-12-12",
+  "size": "904 M+",
+  "description": "Download Ludo King™ effortlessly and at no cost. It’s completely secure, guaranteeing no viruses or malware. Always stay updated with the latest version easily.",
+  "editor_review": "Relive the classic Ludo experience on your mobile with Ludo King™! Having surpassed 900 million downloads, it is the premier and most beloved Ludo game on mobile platforms. Enjoy playing with friends and family in this engaging cross-platform multiplayer game that works on Desktop, Android, iOS, HTML5, and Windows mobile devices. Take advantage of offline gameplay to challenge the computer or engage in local multiplayer matches. Ludo King™ presents a variety of entertaining themes to enhance your experience, including Disco, Nature, Egypt, Pinball, and many others! Get ready to throw the dice and claim your title as the Ludo King!",
+  "how_to_play": [
+    "Compete against the computer without needing internet access",
+    "Challenge your friends and family in both Local and Online Multiplayer",
+    "Invite and play with your Facebook Friends",
+    "Use emojis to express yourself and enjoy private chatting",
+    "Experience the traditional Snakes and Ladders game within Ludo King"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/ludo-king/id993090598",
+  "google_url": "https://play.google.com/store/apps/details?id=com.ludo.king",
+  "screenshots": [
+    "screenshots/com-ludo-king-0.png",
+    "screenshots/com-ludo-king-1.png",
+    "screenshots/com-ludo-king-2.png",
+    "screenshots/com-ludo-king-3.png",
+    "screenshots/com-ludo-king-4.png",
+    "screenshots/com-ludo-king-5.png",
+    "screenshots/com-ludo-king-6.png",
+    "screenshots/com-ludo-king-7.png",
+    "screenshots/com-ludo-king-8.png",
+    "screenshots/com-ludo-king-9.png",
+    "screenshots/com-ludo-king-10.png",
+    "screenshots/com-ludo-king-11.png",
+    "screenshots/com-ludo-king-12.png",
+    "screenshots/com-ludo-king-13.png",
+    "screenshots/com-ludo-king-14.png",
+    "screenshots/com-ludo-king-15.png",
+    "screenshots/com-ludo-king-16.png",
+    "screenshots/com-ludo-king-17.png",
+    "screenshots/com-ludo-king-18.png",
+    "screenshots/com-ludo-king-19.png",
+    "screenshots/com-ludo-king-20.png",
+    "screenshots/com-ludo-king-21.png",
+    "screenshots/com-ludo-king-22.png",
+    "screenshots/com-ludo-king-23.png",
+    "screenshots/com-ludo-king-24.png",
+    "screenshots/com-ludo-king-25.png",
+    "screenshots/com-ludo-king-26.png",
+    "screenshots/com-ludo-king-27.png",
+    "screenshots/com-ludo-king-28.png",
+    "screenshots/com-ludo-king-29.png",
+    "screenshots/com-ludo-king-30.png",
+    "screenshots/com-ludo-king-31.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "https://warap.net/images/com-kitkagames-fallbuddies.png",
+      "image": "Stumble Guys"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "https://warap.net/images/com-scottgames-fnaf3.png",
+      "image": "Five Nights at Freddy&#x27;s 3"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "https://warap.net/images/com-clickteam-ultimatecustomnight.png",
+      "image": "Ultimate Custom Night"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "https://warap.net/images/com-mobgames-poppymobilechap1.png",
+      "image": "Poppy Playtime Chapter 1"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "https://warap.net/images/com-matteljv-uno.png",
+      "image": "UNO!™"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "https://warap.net/images/com-motionvolt-flipbounce.png",
+      "image": "Flip Master"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "https://warap.net/images/com-hts-ams.png",
+      "image": "Army Men Strike: Toy Wars"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "https://warap.net/images/air-com-flipline-papasfreezeriatogo.png",
+      "image": "Papa&#x27;s Freezeria To Go!"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "https://warap.net/images/com-tinybuildgames-helloneighbor.png",
+      "image": "Hello Neighbor"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    }
+  ]
+}

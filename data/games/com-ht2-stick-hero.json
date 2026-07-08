@@ -1,0 +1,303 @@
+{
+  "slug": "com-ht2-stick-hero",
+  "title": "Stick Hero: Tower Defense",
+  "cover": "com-ht2-stick-hero.png",
+  "category": "Casual",
+  "age": "10+",
+  "rating": "4.7",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "54 Million+",
+  "updated": "2023-12-06",
+  "size": "41 M+",
+  "description": "Experience Stick Hero: Tower Defense - available for free download and easy installation. Guaranteed 100% safe with no viruses or malware. Access the latest version effortlessly.",
+  "editor_review": "Prepare for an exhilarating stickman confrontation in Stick Hero: Tower Defense! This fast-paced game merges strategy, puzzle elements, and intense fighting for a captivating gameplay experience. Empower your stickman warriors, conquer heavily armed foes, and face their colossal bosses. With smart strategies and precise tactics, you'll navigate obstacles and guide your stickman to triumph. Enhance your heroes, combine them to create invincible legends, and establish your territory. Are you ready for the challenge? Dive into the tower conflict in Stick Hero: Tower Defense today!",
+  "how_to_play": [
+    "Move strategically to enhance your power and rescue the princess",
+    "Enhance abilities and combine heroes to become a legend",
+    "Defeat formidable bosses like Wugy, Mommy, and Bunny",
+    "Consider every move before proceeding, overcome challenges",
+    "Enjoy a mix of action, strategy, and puzzle-solving"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/stick-hero-tower-defense/id1644023573",
+  "google_url": "https://play.google.com/store/apps/details?id=com.ht2.stick.hero",
+  "screenshots": [
+    "screenshots/com-ht2-stick-hero-0.png",
+    "screenshots/com-ht2-stick-hero-1.png",
+    "screenshots/com-ht2-stick-hero-2.png",
+    "screenshots/com-ht2-stick-hero-3.png",
+    "screenshots/com-ht2-stick-hero-4.png",
+    "screenshots/com-ht2-stick-hero-5.png",
+    "screenshots/com-ht2-stick-hero-6.png",
+    "screenshots/com-ht2-stick-hero-7.png",
+    "screenshots/com-ht2-stick-hero-8.png",
+    "screenshots/com-ht2-stick-hero-9.png",
+    "screenshots/com-ht2-stick-hero-10.png",
+    "screenshots/com-ht2-stick-hero-11.png",
+    "screenshots/com-ht2-stick-hero-12.png",
+    "screenshots/com-ht2-stick-hero-13.png",
+    "screenshots/com-ht2-stick-hero-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "https://warap.net/images/com-tocaboca-tocakitchen2.png",
+      "image": "Toca Boca Jr"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "https://warap.net/images/com-kiloo-subwaysurf.png",
+      "image": "Subway Surfers"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "https://warap.net/images/com-aim-racing.png",
+      "image": "Extreme Car Driving Simulator"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "https://warap.net/images/com-playrix-fishdomdd-gplay.png",
+      "image": "Fishdom"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "https://warap.net/images/com-dynlwpp-atur129.png",
+      "image": "Drawing Carnival"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "https://warap.net/images/com-kongregate-mobile-tmnt-google.png",
+      "image": "TMNT: Mutant Madness"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "https://warap.net/images/com-weegoon-thiefpuzzle.png",
+      "image": "Thief Puzzle: to pass a level"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    }
+  ]
+}

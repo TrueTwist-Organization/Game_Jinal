@@ -1,0 +1,311 @@
+{
+  "slug": "com-paurau-MoveAnimals",
+  "title": "Move Animals",
+  "cover": "com-paurau-moveanimals.png",
+  "category": "Puzzle",
+  "age": "4+",
+  "rating": "4.1",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "41 Million+",
+  "updated": "2023-12-15",
+  "size": "33 M+",
+  "description": "Discover Move Animals - freely available for download and simple to install. Completely safe with no ads or spyware. Enjoy hassle-free access to the most recent version.",
+  "editor_review": "Step into the captivating realm of Move Animals, where creativity and critical thinking come to life! This engaging puzzle game showcases a delightful array of cute animals, from dogs and cats to bears, elephants, and even dinosaurs! Your mission is to cleverly maneuver the animals to achieve the distinct goals of each level. With enchanting visuals and stimulating gameplay, Move Animals guarantees endless enjoyment for players of all ages. Prepare for an exhilarating journey and become the master of animal movement!",
+  "how_to_play": [
+    "Complete puzzles by maneuvering animals to reach the objectives",
+    "Each level offers fresh and thrilling challenges",
+    "Utilize strategy and reasoning to discover the optimal moves",
+    "Dive into a diverse selection of animal characters",
+    "Appreciate stunning graphics and delightful animations"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/move-animals/id1612931269",
+  "google_url": "https://play.google.com/store/apps/details?id=com.paurau.MoveAnimals",
+  "screenshots": [
+    "screenshots/com-paurau-moveanimals-0.png",
+    "screenshots/com-paurau-moveanimals-1.png",
+    "screenshots/com-paurau-moveanimals-2.png",
+    "screenshots/com-paurau-moveanimals-3.png",
+    "screenshots/com-paurau-moveanimals-4.png",
+    "screenshots/com-paurau-moveanimals-5.png",
+    "screenshots/com-paurau-moveanimals-6.png",
+    "screenshots/com-paurau-moveanimals-7.png",
+    "screenshots/com-paurau-moveanimals-8.png",
+    "screenshots/com-paurau-moveanimals-9.png",
+    "screenshots/com-paurau-moveanimals-10.png",
+    "screenshots/com-paurau-moveanimals-11.png",
+    "screenshots/com-paurau-moveanimals-12.png",
+    "screenshots/com-paurau-moveanimals-13.png",
+    "screenshots/com-paurau-moveanimals-14.png",
+    "screenshots/com-paurau-moveanimals-15.png",
+    "screenshots/com-paurau-moveanimals-16.png",
+    "screenshots/com-paurau-moveanimals-17.png",
+    "screenshots/com-paurau-moveanimals-18.png",
+    "screenshots/com-paurau-moveanimals-19.png",
+    "screenshots/com-paurau-moveanimals-20.png",
+    "screenshots/com-paurau-moveanimals-21.png",
+    "screenshots/com-paurau-moveanimals-22.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy&#x27;s",
+      "image": "com-scottgames-fivenightsatfreddys.png"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "com-miniclip-eightballpool",
+  "title": "8 Ball Pool",
+  "cover": "com-miniclip-eightballpool.png",
+  "category": "Sports",
+  "age": "4+",
+  "rating": "4.5",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "1 Billion+",
+  "updated": "2023-12-18",
+  "size": "970 M+",
+  "description": "Start playing 8 Ball Pool - available for free download and simple installation. Completely secure, ensuring no viruses or malware. Access the most recent version effortlessly.",
+  "editor_review": "Prepare to immerse yourself in the exciting realm of pool games with 8 Ball Pool! This engaging and tough game mimics real 3D pool experiences and lets you challenge your friends online. With various gameplay styles and an array of pool tables to select from, you can sharpen your skills and tactics in both multiplayer and PvP matches. Enhance your precision and become a pool champion as you face off against skilled opponents in the 8 ball league. Personalize your cue and pool table, compete for coins, and earn exclusive items to elevate your gaming experience. Join the PvP tournament and display your talents in this complimentary 8 ball online competition!",
+  "how_to_play": [
+    "Log in for free using your Miniclip or Facebook account to challenge friends",
+    "Personalize your cue and pool table for a unique gaming experience",
+    "Take part in multiplayer tournaments to earn Coins and exclusive rewards",
+    "Boost your ranking in the pool league and unlock new match locations",
+    "Aim with precision and showcase your skills in this addictive online 8 ball tournament"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/8-ball-pool/id543186831",
+  "google_url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool",
+  "screenshots": [
+    "screenshots/com-miniclip-eightballpool-0.png",
+    "screenshots/com-miniclip-eightballpool-1.png",
+    "screenshots/com-miniclip-eightballpool-2.png",
+    "screenshots/com-miniclip-eightballpool-3.png",
+    "screenshots/com-miniclip-eightballpool-4.png",
+    "screenshots/com-miniclip-eightballpool-5.png",
+    "screenshots/com-miniclip-eightballpool-6.png",
+    "screenshots/com-miniclip-eightballpool-7.png",
+    "screenshots/com-miniclip-eightballpool-8.png",
+    "screenshots/com-miniclip-eightballpool-9.png",
+    "screenshots/com-miniclip-eightballpool-10.png",
+    "screenshots/com-miniclip-eightballpool-11.png",
+    "screenshots/com-miniclip-eightballpool-12.png",
+    "screenshots/com-miniclip-eightballpool-13.png",
+    "screenshots/com-miniclip-eightballpool-14.png",
+    "screenshots/com-miniclip-eightballpool-15.png",
+    "screenshots/com-miniclip-eightballpool-16.png",
+    "screenshots/com-miniclip-eightballpool-17.png",
+    "screenshots/com-miniclip-eightballpool-18.png",
+    "screenshots/com-miniclip-eightballpool-19.png",
+    "screenshots/com-miniclip-eightballpool-20.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "https://warap.net/images/com-topfreegames-bikeracefreeworld.png",
+      "image": "Bike Race：Motorcycle Games"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingangela2.png",
+      "image": "My Talking Angela 2"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "https://warap.net/images/air-com-hypah-io-slither.png",
+      "image": "slither.io"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "https://warap.net/images/com-codengamesinc-highwayracer3d.png",
+      "image": "Highway Racer 3D"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "https://warap.net/images/com-budgestudios-googleplay-blueyblu.png",
+      "image": "Bluey: Let&#x27;s Play!"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "https://warap.net/images/com-santascary-horrorgranny.png",
+      "image": "Scary Santa Granny"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "https://warap.net/images/com-azurgames-stackball.png",
+      "image": "Stack Ball - Crash Platforms"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "https://warap.net/images/com-playrix-fishdomdd-gplay.png",
+      "image": "Fishdom"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "https://warap.net/images/com-activision-callofduty-shooter.png",
+      "image": "Call of Duty: Mobile Season 11"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "slug": "com-drycactus-polybridge2",
+  "title": "Poly Bridge 2",
+  "cover": "com-drycactus-polybridge2.png",
+  "category": "Simulation",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "561 Thousand+",
+  "updated": "2023-09-02",
+  "size": "32 W+",
+  "description": "Download Poly Bridge 2 effortlessly and enjoy a safe experience with no malware. Always get the latest version hassle-free.",
+  "editor_review": "Prepare to ignite your engineering imagination with the revamped Poly Bridge app! Featuring new levels, mechanics, and a customized physics engine, you’re set for countless hours of creative fun. Additionally, Adrian Talens returns with a fresh full-length soundtrack, including 13 new tracks alongside 18 remastered favorites. With the introduction of new Spring material, your bridges gain added flexibility, making it easier to achieve victory. Our physics engine has been enhanced to ensure consistent simulation outcomes for all players. So why wait? Jump into the realm of bridge construction and tackle the challenges that Poly Bridge has in store for you!",
+  "how_to_play": [
+    "Express your creativity by constructing sturdy bridges.",
+    "Utilize the innovative Spring material for enhanced bridge flexibility.",
+    "Enjoy the calming and award-winning music from Adrian Talens.",
+    "Take on new levels and mechanics for an exciting challenge.",
+    "Test your skills with our accurately tuned physics engine for a competitive edge."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/poly-bridge-2/id1524371466",
+  "google_url": "https://play.google.com/store/apps/details?id=com.drycactus.polybridge2",
+  "screenshots": [
+    "screenshots/com-drycactus-polybridge2-0.png",
+    "screenshots/com-drycactus-polybridge2-1.png",
+    "screenshots/com-drycactus-polybridge2-2.png",
+    "screenshots/com-drycactus-polybridge2-3.png",
+    "screenshots/com-drycactus-polybridge2-4.png",
+    "screenshots/com-drycactus-polybridge2-5.png",
+    "screenshots/com-drycactus-polybridge2-6.png",
+    "screenshots/com-drycactus-polybridge2-7.png",
+    "screenshots/com-drycactus-polybridge2-8.png",
+    "screenshots/com-drycactus-polybridge2-9.png",
+    "screenshots/com-drycactus-polybridge2-10.png",
+    "screenshots/com-drycactus-polybridge2-11.png",
+    "screenshots/com-drycactus-polybridge2-12.png",
+    "screenshots/com-drycactus-polybridge2-13.png",
+    "screenshots/com-drycactus-polybridge2-14.png",
+    "screenshots/com-drycactus-polybridge2-15.png",
+    "screenshots/com-drycactus-polybridge2-16.png",
+    "screenshots/com-drycactus-polybridge2-17.png",
+    "screenshots/com-drycactus-polybridge2-18.png",
+    "screenshots/com-drycactus-polybridge2-19.png",
+    "screenshots/com-drycactus-polybridge2-20.png",
+    "screenshots/com-drycactus-polybridge2-21.png",
+    "screenshots/com-drycactus-polybridge2-22.png",
+    "screenshots/com-drycactus-polybridge2-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "https://warap.net/images/com-water-balls.png",
+      "image": "Sand Balls - Puzzle Game"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "https://warap.net/images/com-nintendo-zaka.png",
+      "image": "Mario Kart Tour"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "https://warap.net/images/com-azurgames-stackball.png",
+      "image": "Stack Ball - Crash Platforms"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "https://warap.net/images/com-tinybuildgames-helloneighbor.png",
+      "image": "Hello Neighbor"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "https://warap.net/images/com-weegoon-thiefpuzzle.png",
+      "image": "Thief Puzzle: to pass a level"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "https://warap.net/images/com-codengamesinc-highwayracer3d.png",
+      "image": "Highway Racer 3D"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "https://warap.net/images/com-crazy-block-robo-monster-cliffs-craft.png",
+      "image": "Block Crazy Robo World"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    }
+  ]
+}

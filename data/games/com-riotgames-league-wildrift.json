@@ -1,0 +1,306 @@
+{
+  "slug": "com-riotgames-league-wildrift",
+  "title": "League of Legends: Wild Rift",
+  "cover": "com-riotgames-league-wildrift.png",
+  "category": "Strategy",
+  "age": "4+",
+  "rating": "3.3",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "58 Million+",
+  "updated": "2023-10-11",
+  "size": "55 M+",
+  "description": "Experience League of Legends: Wild Rift - available for free download and straightforward installation. Absolutely secure with no threats or harmful software. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Prepare for the ultimate PvP multiplayer thrill with League of Legends: Wild Rift! This mobile-oriented MOBA game brings the thrilling essence of League of Legends right to your device. Engage in rapid 5v5 combat where your skills, tactics, and reflexes are challenged. Collaborate with friends, select your champions, and battle your way to triumph! With real-time fights, distinct champions and abilities, along with regularly refreshed content, Wild Rift delivers a high-end mobile MOBA experience. The best part? It's free-to-play and maintains a fair playing field, free from pay-to-win practices. Download today and guide your team to victory!",
+  "how_to_play": [
+    "Hone your strategy and skills in thrilling MOBA gameplay.",
+    "Collaborate with friends to conquer in 5v5 online multiplayer matches.",
+    "Select from a variety of champions equipped with unique skills.",
+    "Immerse yourself in the dynamic visuals, stunning graphics, and constantly evolving content of the game.",
+    "Adapt your team compositions and innovate tactical choices to match your playing style."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/league-of-legends-wild-rift/id1480616990",
+  "google_url": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift",
+  "screenshots": [
+    "screenshots/com-riotgames-league-wildrift-0.png",
+    "screenshots/com-riotgames-league-wildrift-1.png",
+    "screenshots/com-riotgames-league-wildrift-2.png",
+    "screenshots/com-riotgames-league-wildrift-3.png",
+    "screenshots/com-riotgames-league-wildrift-4.png",
+    "screenshots/com-riotgames-league-wildrift-5.png",
+    "screenshots/com-riotgames-league-wildrift-6.png",
+    "screenshots/com-riotgames-league-wildrift-7.png",
+    "screenshots/com-riotgames-league-wildrift-8.png",
+    "screenshots/com-riotgames-league-wildrift-9.png",
+    "screenshots/com-riotgames-league-wildrift-10.png",
+    "screenshots/com-riotgames-league-wildrift-11.png",
+    "screenshots/com-riotgames-league-wildrift-12.png",
+    "screenshots/com-riotgames-league-wildrift-13.png",
+    "screenshots/com-riotgames-league-wildrift-14.png",
+    "screenshots/com-riotgames-league-wildrift-15.png",
+    "screenshots/com-riotgames-league-wildrift-16.png",
+    "screenshots/com-riotgames-league-wildrift-17.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "https://warap.net/images/com-codengamesinc-highwayracer3d.png",
+      "image": "Highway Racer 3D"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "https://warap.net/images/com-playrix-gardenscapes.png",
+      "image": "Gardenscapes"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "https://warap.net/images/com-tocaboca-tocalifeworld.png",
+      "image": "Toca Life World: Build a Story"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "https://warap.net/images/com-mojang-minecraftpe.png",
+      "image": "Minecraft"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "https://warap.net/images/com-clickteam-ultimatecustomnight.png",
+      "image": "Ultimate Custom Night"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "https://warap.net/images/com-halfbrick-fruitninjax.png",
+      "image": "Fruit Ninja 2 Fun Action Games"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "https://warap.net/images/com-nintendo-zaka.png",
+      "image": "Mario Kart Tour"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "https://warap.net/images/com-innersloth-spacemafia.png",
+      "image": "Among Us"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "https://warap.net/images/com-ea-game-pvzfree_row.png",
+      "image": "Plants vs. Zombies™"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "https://warap.net/images/com-game-colorroll3d.png",
+      "image": "Color Roll 3D"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    }
+  ]
+}

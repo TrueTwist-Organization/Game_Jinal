@@ -1,0 +1,306 @@
+{
+  "slug": "com-aniplex-fategrandorder-en",
+  "title": "Fate/Grand Order (English)",
+  "cover": "com-aniplex-fategrandorder-en.png",
+  "category": "Role Playing",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "3 Million+",
+  "updated": "2023-12-18",
+  "size": "3 M+",
+  "description": "Dive into Fate/Grand Order (English) - available for free download and quick installation. Completely secure, free from viruses or malware. Always have access to the newest version effortlessly.",
+  "editor_review": "Immerse yourself in the exhilarating realm of Fate with this exciting mobile RPG! Collaborate with Chaldea on a quest to save humanity by navigating through millions of words of an original narrative. With stunning graphics and a refined command card battle mechanism, become a Master and ally with your favorite Heroic Spirits. Unravel the enigma of vanished human history and safeguard the future! Are you ready to take on the mission?",
+  "how_to_play": [
+    "Create a team with Heroic Spirits to conquer foes and uncover the mystery.",
+    "Streamlined command card battle system designed for intuitive smartphone gameplay.",
+    "Stunning graphics and a mesmerizing storyline filled with extensive content.",
+    "Engage in the fight to defend humanity and confront destiny!",
+    "Discover the Fate universe like you’ve never experienced before!"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/fate-grand-order-english/id1183802626",
+  "google_url": "https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en",
+  "screenshots": [
+    "screenshots/com-aniplex-fategrandorder-en-0.png",
+    "screenshots/com-aniplex-fategrandorder-en-1.png",
+    "screenshots/com-aniplex-fategrandorder-en-2.png",
+    "screenshots/com-aniplex-fategrandorder-en-3.png",
+    "screenshots/com-aniplex-fategrandorder-en-4.png",
+    "screenshots/com-aniplex-fategrandorder-en-5.png",
+    "screenshots/com-aniplex-fategrandorder-en-6.png",
+    "screenshots/com-aniplex-fategrandorder-en-7.png",
+    "screenshots/com-aniplex-fategrandorder-en-8.png",
+    "screenshots/com-aniplex-fategrandorder-en-9.png",
+    "screenshots/com-aniplex-fategrandorder-en-10.png",
+    "screenshots/com-aniplex-fategrandorder-en-11.png",
+    "screenshots/com-aniplex-fategrandorder-en-12.png",
+    "screenshots/com-aniplex-fategrandorder-en-13.png",
+    "screenshots/com-aniplex-fategrandorder-en-14.png",
+    "screenshots/com-aniplex-fategrandorder-en-15.png",
+    "screenshots/com-aniplex-fategrandorder-en-16.png",
+    "screenshots/com-aniplex-fategrandorder-en-17.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "https://warap.net/images/com-jamcity-blackforest_goo.png",
+      "image": "Disney Frozen Adventures"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingangela2.png",
+      "image": "My Talking Angela 2"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "https://warap.net/images/com-innersloth-spacemafia.png",
+      "image": "Among Us"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "https://warap.net/images/com-mobgames-poppymobilechap1.png",
+      "image": "Poppy Playtime Chapter 1"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "https://warap.net/images/com-weup-grimace-monster-scary-survival.png",
+      "image": "Grima Monster Scary Survival"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdyhm.png",
+      "image": "Disney Magic Kingdoms"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "https://warap.net/images/com-water-balls.png",
+      "image": "Sand Balls - Puzzle Game"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "https://warap.net/images/com-tinybuildgames-helloneighbor.png",
+      "image": "Hello Neighbor"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "https://warap.net/images/com-ea-game-pvzfree_row.png",
+      "image": "Plants vs. Zombies™"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "https://warap.net/images/com-nintendo-zaka.png",
+      "image": "Mario Kart Tour"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    }
+  ]
+}

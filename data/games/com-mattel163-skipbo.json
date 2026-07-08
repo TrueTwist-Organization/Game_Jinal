@@ -1,0 +1,306 @@
+{
+  "slug": "com-mattel163-skipbo",
+  "title": "Skip-Bo",
+  "cover": "com-mattel163-skipbo.png",
+  "category": "Card",
+  "age": "4+",
+  "rating": "4.8",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "5 Million+",
+  "updated": "2023-12-06",
+  "size": "4 M+",
+  "description": "Download Skip-Bo easily and for free. Safe and secure with no harmful software. Always find the most recent version effortlessly.",
+  "editor_review": "🃏Skip-Bo™ is a captivating solitaire card game that will keep you engaged! 💥With straightforward rules and thoughtful gameplay, it's suitable for players young and old. 🚀Play offline or test your skills against friends online, and journey through numerous levels in the farm adventure mode. 💰Collect coins by completing levels and personalize your own Skip-Bo™ journey. 🌟Participate in thrilling events to earn unique card backs and avatar frames. Download now and enjoy the fun of Skip-Bo™ with friends and family wherever you are!",
+  "how_to_play": [
+    "Plan wisely to tackle challenges and eliminate the pyramid of Stock cards.",
+    "Navigate through a beautifully illustrated environment and conquer hundreds of levels.",
+    "Sharpen your skills with new levels introduced frequently.",
+    "Tailor your experience with various levels that cater to every skill level.",
+    "Join in on exciting events to earn beautiful card backs and avatar frames."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/skip-bo/id1538912205",
+  "google_url": "https://play.google.com/store/apps/details?id=com.mattel163.skipbo",
+  "screenshots": [
+    "screenshots/com-mattel163-skipbo-0.png",
+    "screenshots/com-mattel163-skipbo-1.png",
+    "screenshots/com-mattel163-skipbo-2.png",
+    "screenshots/com-mattel163-skipbo-3.png",
+    "screenshots/com-mattel163-skipbo-4.png",
+    "screenshots/com-mattel163-skipbo-5.png",
+    "screenshots/com-mattel163-skipbo-6.png",
+    "screenshots/com-mattel163-skipbo-7.png",
+    "screenshots/com-mattel163-skipbo-8.png",
+    "screenshots/com-mattel163-skipbo-9.png",
+    "screenshots/com-mattel163-skipbo-10.png",
+    "screenshots/com-mattel163-skipbo-11.png",
+    "screenshots/com-mattel163-skipbo-12.png",
+    "screenshots/com-mattel163-skipbo-13.png",
+    "screenshots/com-mattel163-skipbo-14.png",
+    "screenshots/com-mattel163-skipbo-15.png",
+    "screenshots/com-mattel163-skipbo-16.png",
+    "screenshots/com-mattel163-skipbo-17.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "https://warap.net/images/com-azurgames-stackball.png",
+      "image": "Stack Ball - Crash Platforms"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "https://warap.net/images/com-codengamesinc-highwayracer3d.png",
+      "image": "Highway Racer 3D"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingangela2.png",
+      "image": "My Talking Angela 2"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "https://warap.net/images/com-roblox-client.png",
+      "image": "Roblox"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "https://warap.net/images/com-fungames-sniper3d.png",
+      "image": "Sniper 3D：Gun Shooting Games"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "https://warap.net/images/com-kitkagames-fallbuddies.png",
+      "image": "Stumble Guys"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtom2.png",
+      "image": "My Talking Tom 2"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "https://warap.net/images/com-tocaboca-tocalifeworld.png",
+      "image": "Toca Life World: Build a Story"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "https://warap.net/images/com-supercell-clashroyale.png",
+      "image": "Clash Royale"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "https://warap.net/images/com-oppanagames-car-simulator.png",
+      "image": "Car Simulator 2"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    }
+  ]
+}

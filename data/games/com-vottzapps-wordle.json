@@ -1,0 +1,303 @@
+{
+  "slug": "com-vottzapps-wordle",
+  "title": "Wordle!",
+  "cover": "com-vottzapps-wordle.png",
+  "category": "Word",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "10 Million+",
+  "updated": "2023-12-21",
+  "size": "7 M+",
+  "description": "Experience Wordle! - available for free download and simple installation. Completely secure with zero risk of viruses or malware. Easily access the latest version anytime.",
+  "editor_review": "Prepare for an exhilarating word game adventure with Wordle! This engaging new application merges traditional crossword puzzles with popular word gaming trends to stimulate your brain and enhance your spelling abilities. With various game modes like Daily Challenges, Classic Wordle!, Word Fever, and Secret Word, there's an option for every player. Enjoy playing at your leisure, share your outcomes, and unlock unique boosters to aid your progress. Whether you are a word game expert or simply seeking an entertaining mental challenge, Wordle! is the ideal choice for you!",
+  "how_to_play": [
+    "Invite your friends to identify your selected word within six attempts",
+    "Complete the daily word challenge in Daily Puzzle mode",
+    "Enjoy endless gameplay in Unlimited Wordle! mode",
+    "Sharpen your speed and spelling in Word Fever mode",
+    "Deduce the word using the provided hints in Secret Word mode"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/wordle/id1095569891",
+  "google_url": "https://play.google.com/store/apps/details?id=com.vottzapps.wordle",
+  "screenshots": [
+    "screenshots/com-vottzapps-wordle-0.png",
+    "screenshots/com-vottzapps-wordle-1.png",
+    "screenshots/com-vottzapps-wordle-2.png",
+    "screenshots/com-vottzapps-wordle-3.png",
+    "screenshots/com-vottzapps-wordle-4.png",
+    "screenshots/com-vottzapps-wordle-5.png",
+    "screenshots/com-vottzapps-wordle-6.png",
+    "screenshots/com-vottzapps-wordle-7.png",
+    "screenshots/com-vottzapps-wordle-8.png",
+    "screenshots/com-vottzapps-wordle-9.png",
+    "screenshots/com-vottzapps-wordle-10.png",
+    "screenshots/com-vottzapps-wordle-11.png",
+    "screenshots/com-vottzapps-wordle-12.png",
+    "screenshots/com-vottzapps-wordle-13.png",
+    "screenshots/com-vottzapps-wordle-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "https://warap.net/images/com-clickteam-ultimatecustomnight.png",
+      "image": "Ultimate Custom Night"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "https://warap.net/images/com-hts-ams.png",
+      "image": "Army Men Strike: Toy Wars"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "https://warap.net/images/com-tocaboca-tocalifeworld.png",
+      "image": "Toca Life World: Build a Story"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "https://warap.net/images/com-aim-racing.png",
+      "image": "Extreme Car Driving Simulator"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "https://warap.net/images/com-santascary-horrorgranny.png",
+      "image": "Scary Santa Granny"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "https://warap.net/images/com-supercell-hayday.png",
+      "image": "Hay Day"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    }
+  ]
+}

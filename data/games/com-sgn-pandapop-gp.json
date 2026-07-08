@@ -1,0 +1,309 @@
+{
+  "slug": "com-sgn-pandapop-gp",
+  "title": "Bubble Shooter: Panda Pop!",
+  "cover": "com-sgn-pandapop-gp.png",
+  "category": "Puzzle",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "68 Million+",
+  "updated": "2023-12-08",
+  "size": "67 M+",
+  "description": "Dive into Bubble Shooter: Panda Pop! - available for free download and simple installation. 100% secure with no viruses or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Are you on the hunt for an engaging and thrilling bubble shooter game? Your search ends with Panda Pop! This delightful bubble popping adventure will keep you hooked with its intricate levels and charming panda characters. Join the fun by matching 3 bubbles of the same color to save the pandas and progress through each stage. With more than 4000 levels to master, daily challenges to enhance your skills, and exciting events offering free rewards, Panda Pop guarantees endless bubble-popping enjoyment. Connect those bubbles, utilize power-ups, and gather adorable pets as you journey through this vibrant bubble shooter experience!",
+  "how_to_play": [
+    "Match 3 bubbles to burst and save the pandas",
+    "Tackle over 4000 levels of bubble shooting excitement",
+    "Sharpen your skills with daily challenges and events",
+    "Link bubbles and harness power-ups for the greatest impact",
+    "Gather adorable pets as you advance through the game"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/bubble-shooter-panda-pop/id700970012",
+  "google_url": "https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp",
+  "screenshots": [
+    "screenshots/com-sgn-pandapop-gp-0.png",
+    "screenshots/com-sgn-pandapop-gp-1.png",
+    "screenshots/com-sgn-pandapop-gp-2.png",
+    "screenshots/com-sgn-pandapop-gp-3.png",
+    "screenshots/com-sgn-pandapop-gp-4.png",
+    "screenshots/com-sgn-pandapop-gp-5.png",
+    "screenshots/com-sgn-pandapop-gp-6.png",
+    "screenshots/com-sgn-pandapop-gp-7.png",
+    "screenshots/com-sgn-pandapop-gp-8.png",
+    "screenshots/com-sgn-pandapop-gp-9.png",
+    "screenshots/com-sgn-pandapop-gp-10.png",
+    "screenshots/com-sgn-pandapop-gp-11.png",
+    "screenshots/com-sgn-pandapop-gp-12.png",
+    "screenshots/com-sgn-pandapop-gp-13.png",
+    "screenshots/com-sgn-pandapop-gp-14.png",
+    "screenshots/com-sgn-pandapop-gp-15.png",
+    "screenshots/com-sgn-pandapop-gp-16.png",
+    "screenshots/com-sgn-pandapop-gp-17.png",
+    "screenshots/com-sgn-pandapop-gp-18.png",
+    "screenshots/com-sgn-pandapop-gp-19.png",
+    "screenshots/com-sgn-pandapop-gp-20.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "https://warap.net/images/com-weegoon-thiefpuzzle.png",
+      "image": "Thief Puzzle: to pass a level"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "https://warap.net/images/com-crazy-block-robo-monster-cliffs-craft.png",
+      "image": "Block Crazy Robo World"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "https://warap.net/images/com-playrix-fishdomdd-gplay.png",
+      "image": "Fishdom"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "https://warap.net/images/com-youmusic-magictiles.png",
+      "image": "Magic Tiles 3"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "https://warap.net/images/com-weup-grimace-monster-scary-survival.png",
+      "image": "Grima Monster Scary Survival"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "https://warap.net/images/com-aim-racing.png",
+      "image": "Extreme Car Driving Simulator"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "https://warap.net/images/air-com-aceviral-motox3m.png",
+      "image": "Moto X3M Bike Race Game"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "https://warap.net/images/com-ea-game-pvzfree_row.png",
+      "image": "Plants vs. Zombies™"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "https://warap.net/images/com-ea-gp-fifamobile.png",
+      "image": "EA SPORTS FC™ Mobile Soccer"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "https://warap.net/images/com-edujoy-masha-games.png",
+      "image": "Masha and the Bear Educational"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    }
+  ]
+}

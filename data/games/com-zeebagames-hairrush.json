@@ -1,0 +1,303 @@
+{
+  "slug": "com-zeebagames-hairrush",
+  "title": "Hair Rush",
+  "cover": "com-zeebagames-hairrush.png",
+  "category": "Arcade",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "4 Million+",
+  "updated": "2023-02-24",
+  "size": "4 M+",
+  "description": "Experience Hair Rush - available for free download and simple installation. Completely secure with no threats or malware. Always enjoy the latest version effortlessly.",
+  "editor_review": "Hair Rush is an exhilarating running game that promises hours of fun! Its captivating gameplay and thrilling challenges will make it your new go-to game. Navigate through challenging obstacles by running, jumping, and twisting while gathering tasty stars along the way. Expand your hair to soar higher and surpass your competitors in breathtaking flights. This game is full of excitement and will challenge your skills as you aim to have the longest and most vibrant hair. Are you prepared to embrace the challenge and emerge as a Hair Rush champion?",
+  "how_to_play": [
+    "- Navigate through obstacles by running, jumping, and twisting",
+    "- Gather stars to score points",
+    "- Lengthen your hair for elevated jumps",
+    "- Outperform your opponents to claim the championship",
+    "- Enhance your skills and enjoy the game"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/hair-rush/id1559997368",
+  "google_url": "https://play.google.com/store/apps/details?id=com.zeebagames.hairrush",
+  "screenshots": [
+    "screenshots/com-zeebagames-hairrush-0.png",
+    "screenshots/com-zeebagames-hairrush-1.png",
+    "screenshots/com-zeebagames-hairrush-2.png",
+    "screenshots/com-zeebagames-hairrush-3.png",
+    "screenshots/com-zeebagames-hairrush-4.png",
+    "screenshots/com-zeebagames-hairrush-5.png",
+    "screenshots/com-zeebagames-hairrush-6.png",
+    "screenshots/com-zeebagames-hairrush-7.png",
+    "screenshots/com-zeebagames-hairrush-8.png",
+    "screenshots/com-zeebagames-hairrush-9.png",
+    "screenshots/com-zeebagames-hairrush-10.png",
+    "screenshots/com-zeebagames-hairrush-11.png",
+    "screenshots/com-zeebagames-hairrush-12.png",
+    "screenshots/com-zeebagames-hairrush-13.png",
+    "screenshots/com-zeebagames-hairrush-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "https://warap.net/images/air-com-flipline-papasfreezeriatogo.png",
+      "image": "Papa&#x27;s Freezeria To Go!"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "https://warap.net/images/com-dynlwpp-atur129.png",
+      "image": "Drawing Carnival"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "https://warap.net/images/com-halfbrick-fruitninjax.png",
+      "image": "Fruit Ninja 2 Fun Action Games"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "https://warap.net/images/com-amanotes-gs-g06.png",
+      "image": "Duet Cats: Cute Cat Game"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "https://warap.net/images/com-hts-ams.png",
+      "image": "Army Men Strike: Toy Wars"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "https://warap.net/images/com-tinybuildgames-helloneighbor.png",
+      "image": "Hello Neighbor"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "https://warap.net/images/com-rovio-abcasual.png",
+      "image": "Angry Birds Journey"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "https://warap.net/images/com-nintendo-zaka.png",
+      "image": "Mario Kart Tour"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "https://warap.net/images/com-budgestudios-googleplay-blueyblu.png",
+      "image": "Bluey: Let&#x27;s Play!"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "https://warap.net/images/com-peppapig-worldofpeppapig_g.png",
+      "image": "World of Peppa Pig: Kids Games"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    }
+  ]
+}

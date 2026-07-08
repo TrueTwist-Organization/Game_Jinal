@@ -1,0 +1,312 @@
+{
+  "slug": "com-albiononline",
+  "title": "Albion Online",
+  "cover": "com-albiononline.png",
+  "category": "Role Playing",
+  "age": "10+",
+  "rating": "4.4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "11 Million+",
+  "updated": "2023-11-25",
+  "size": "8 M+",
+  "description": "Download Albion Online effortlessly and at no cost. It's completely secure, with zero risks of viruses or malware. Easily access the most recent version.",
+  "editor_review": "Dive into the world of Albion Online, a free MMO that offers a huge open environment and exhilarating PvP action. Wander through various biomes, collect materials, and take on formidable foes in dungeons. Participate in full-loot PvP confrontations or opt for safer areas intended for PvE engagement. With cross-platform compatibility, enjoy Albion Online on your desktop or mobile device. Create your own equipment and compete in exciting 1v1 and 5v5 matches. Become part of a guild, seize territories, and develop your own homestead. Albion Online features a distinct classless combat system in which your abilities depend on the weapons and armor you choose. Embark on an endless journey, where your appearance defines your role!",
+  "how_to_play": [
+    "Discover a sprawling world filled with different biomes and dungeons",
+    "Participate in PvP matches with high stakes",
+    "Craft and trade within a player-driven marketplace",
+    "Utilize a classless combat system and enhance your skills",
+    "Claim territories and create your own homestead"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/albion-online/id1202788573",
+  "google_url": "https://play.google.com/store/apps/details?id=com.albiononline",
+  "screenshots": [
+    "screenshots/com-albiononline-0.png",
+    "screenshots/com-albiononline-1.png",
+    "screenshots/com-albiononline-2.png",
+    "screenshots/com-albiononline-3.png",
+    "screenshots/com-albiononline-4.png",
+    "screenshots/com-albiononline-5.png",
+    "screenshots/com-albiononline-6.png",
+    "screenshots/com-albiononline-7.png",
+    "screenshots/com-albiononline-8.png",
+    "screenshots/com-albiononline-9.png",
+    "screenshots/com-albiononline-10.png",
+    "screenshots/com-albiononline-11.png",
+    "screenshots/com-albiononline-12.png",
+    "screenshots/com-albiononline-13.png",
+    "screenshots/com-albiononline-14.png",
+    "screenshots/com-albiononline-15.png",
+    "screenshots/com-albiononline-16.png",
+    "screenshots/com-albiononline-17.png",
+    "screenshots/com-albiononline-18.png",
+    "screenshots/com-albiononline-19.png",
+    "screenshots/com-albiononline-20.png",
+    "screenshots/com-albiononline-21.png",
+    "screenshots/com-albiononline-22.png",
+    "screenshots/com-albiononline-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "https://warap.net/images/com-kongregate-mobile-tmnt-google.png",
+      "image": "TMNT: Mutant Madness"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "https://warap.net/images/air-com-aceviral-motox3m.png",
+      "image": "Moto X3M Bike Race Game"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "https://warap.net/images/com-dxm-nopuzzle.png",
+      "image": "Block Puzzle"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "https://warap.net/images/com-innersloth-spacemafia.png",
+      "image": "Among Us"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "https://warap.net/images/com-playrix-gardenscapes.png",
+      "image": "Gardenscapes"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "https://warap.net/images/com-imangi-templerun2.png",
+      "image": "Temple Run 2"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "https://warap.net/images/com-edujoy-masha-games.png",
+      "image": "Masha and the Bear Educational"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "https://warap.net/images/com-v06-car-driving-mega-city.png",
+      "image": "Real Car Driving: Race City 3D"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    }
+  ]
+}

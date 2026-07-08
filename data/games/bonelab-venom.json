@@ -1,0 +1,293 @@
+{
+  "slug": "bonelab-venom",
+  "title": "Bonelab: Venom",
+  "cover": "bonelab-venom.png",
+  "category": "Simulation",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Windows",
+  "price": "Free",
+  "installs": "1 Million+",
+  "updated": "2024-11-18",
+  "size": "100 MB",
+  "description": "Download Bonelab: Venom at no cost and enjoy effortless installation. Completely secure with zero viruses or malware. Always get the latest version quickly.",
+  "editor_review": "Dive into the thrilling chaos of BONELAB, where physical laws are bent and adventures are limitless! Are you prepared to expand your mind and explore the enigmas of a bizarre, weapon-filled laboratory? In BONELAB, every move leads to new discoveries in a landscape of mayhem where every choice is valid, offering boundless opportunities. It's a perfect match for adventurers and thrill-seekers—this game urges you to escape the confines of reality. Are you courageous enough to embark on this journey?",
+  "how_to_play": [
+    "Venture through an expansive laboratory filled with mysteries and obstacles; your inquisitiveness might\n              reveal surprising paths.",
+    "Select from a wide array of weapons to fend off numerous foes. Feel free to experiment!",
+    "Interact with a sophisticated physics engine - throw objects, climb structures, wreak havoc, and engage\n              with your environment in imaginative ways.",
+    "There are no predetermined routes or correct choices. Enjoy the liberty to forge your own path and create\n              distinct experiences.",
+    "Stay alert for concealed secrets and hidden treasures! Delving deep may reward you with incredible\n              surprises."
+  ],
+  "apple_url": "null",
+  "google_url": "null",
+  "screenshots": [
+    "screenshots/bonelab-venom-0.webp",
+    "screenshots/bonelab-venom-1.webp",
+    "screenshots/bonelab-venom-2.webp",
+    "screenshots/bonelab-venom-3.webp",
+    "screenshots/bonelab-venom-4.webp"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "https://warap.net/images/com-nianticlabs-pokemongo.png",
+      "image": "Pokémon GO"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "https://warap.net/images/com-supercell-hayday.png",
+      "image": "Hay Day"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "https://warap.net/images/com-weup-grimace-monster-scary-survival.png",
+      "image": "Grima Monster Scary Survival"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "https://warap.net/images/com-nintendo-zaka.png",
+      "image": "Mario Kart Tour"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "https://warap.net/images/com-dynlwpp-atur129.png",
+      "image": "Drawing Carnival"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "https://warap.net/images/com-tocaboca-tocakitchen2.png",
+      "image": "Toca Boca Jr"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "https://warap.net/images/com-game-colorroll3d.png",
+      "image": "Color Roll 3D"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "https://warap.net/images/com-topfreegames-bikeracefreeworld.png",
+      "image": "Bike Race：Motorcycle Games"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "https://warap.net/images/com-halfbrick-fruitninjax.png",
+      "image": "Fruit Ninja 2 Fun Action Games"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "https://warap.net/images/com-kiloo-subwaysurf.png",
+      "image": "Subway Surfers"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtom2.png",
+      "image": "My Talking Tom 2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png",
+      "developer": "Team Terrible",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    }
+  ]
+}

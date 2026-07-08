@@ -1,0 +1,312 @@
+{
+  "slug": "com-scopely-monopolygo",
+  "title": "MONOPOLY GO!",
+  "cover": "com-scopely-monopolygo.png",
+  "category": "Board",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "46 Million+",
+  "updated": "2023-12-18",
+  "size": "14 M+",
+  "description": "Download MONOPOLY GO! effortlessly and without cost. Completely secure, free from viruses or malware. Always stay updated with the latest version seamlessly.",
+  "editor_review": "Discover a fresh way to enjoy MONOPOLY with MONOPOLY GO! Roll the dice, accumulate MONOPOLY money, and navigate thrilling boards inspired by popular cities and imaginative places. Prepare to gather properties, construct houses and hotels, and draw chance cards all from your mobile device. Engage with family and friends, take part in fun mini-games like Community Chest, and swap story-filled stickers for amazing rewards. With new chances every day, competitions, and fantastic prizes, MONOPOLY GO! revives the spirit of classic MONOPOLY in an enjoyable and engaging manner!",
+  "how_to_play": [
+    "Acquire and develop properties using Property Tile Sets and enhancements.",
+    "Relish the traditional MONOPOLY game board featuring beloved characters and locations.",
+    "Enjoy gameplay with friends and family, and join in on new fun mini-games.",
+    "Uncover fresh opportunities and exciting events daily for great rewards.",
+    "Engage in tournaments and mini-games such as Prize Drop and Cash Grab."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/monopoly-go/id1621328561",
+  "google_url": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo",
+  "screenshots": [
+    "screenshots/com-scopely-monopolygo-0.png",
+    "screenshots/com-scopely-monopolygo-1.png",
+    "screenshots/com-scopely-monopolygo-2.png",
+    "screenshots/com-scopely-monopolygo-3.png",
+    "screenshots/com-scopely-monopolygo-4.png",
+    "screenshots/com-scopely-monopolygo-5.png",
+    "screenshots/com-scopely-monopolygo-6.png",
+    "screenshots/com-scopely-monopolygo-7.png",
+    "screenshots/com-scopely-monopolygo-8.png",
+    "screenshots/com-scopely-monopolygo-9.png",
+    "screenshots/com-scopely-monopolygo-10.png",
+    "screenshots/com-scopely-monopolygo-11.png",
+    "screenshots/com-scopely-monopolygo-12.png",
+    "screenshots/com-scopely-monopolygo-13.png",
+    "screenshots/com-scopely-monopolygo-14.png",
+    "screenshots/com-scopely-monopolygo-15.png",
+    "screenshots/com-scopely-monopolygo-16.png",
+    "screenshots/com-scopely-monopolygo-17.png",
+    "screenshots/com-scopely-monopolygo-18.png",
+    "screenshots/com-scopely-monopolygo-19.png",
+    "screenshots/com-scopely-monopolygo-20.png",
+    "screenshots/com-scopely-monopolygo-21.png",
+    "screenshots/com-scopely-monopolygo-22.png",
+    "screenshots/com-scopely-monopolygo-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "https://warap.net/images/com-azurgames-stackball.png",
+      "image": "Stack Ball - Crash Platforms"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "https://warap.net/images/com-tinybuildgames-helloneighbor.png",
+      "image": "Hello Neighbor"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "https://warap.net/images/com-fungames-sniper3d.png",
+      "image": "Sniper 3D：Gun Shooting Games"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-glofta9hm.png",
+      "image": "Asphalt 9: Legends"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "https://warap.net/images/air-com-aceviral-motox3m.png",
+      "image": "Moto X3M Bike Race Game"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "https://warap.net/images/com-topfreegames-bikeracefreeworld.png",
+      "image": "Bike Race：Motorcycle Games"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "https://warap.net/images/com-ea-gp-fifamobile.png",
+      "image": "EA SPORTS FC™ Mobile Soccer"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtom2.png",
+      "image": "My Talking Tom 2"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "https://warap.net/images/com-roblox-client.png",
+      "image": "Roblox"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "https://warap.net/images/com-supercell-hayday.png",
+      "image": "Hay Day"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png",
+      "developer": "Rovio Entertainment Corporation",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png",
+      "developer": "Jam City, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    }
+  ]
+}

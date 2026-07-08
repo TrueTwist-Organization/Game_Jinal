@@ -1,0 +1,303 @@
+{
+  "slug": "com-peoplefun-wordflowers",
+  "title": "Wordscapes In Bloom",
+  "cover": "com-peoplefun-wordflowers.png",
+  "category": "Word",
+  "age": "4+",
+  "rating": "4.7",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "3 Million+",
+  "updated": "2023-06-16",
+  "size": "3 M+",
+  "description": "Discover Wordscapes In Bloom - available for free download and simple installation. Completely secure with zero viruses or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Challenge your mind and enhance your vocabulary with Wordscapes In Bloom! This enchanting word game will lead you through countless difficult word unscrambling challenges, all set in a tranquil botanical garden. Advance to new levels as you tackle anagram crossword puzzles that become progressively tougher. Experience delightful gameplay as you navigate an oasis filled with stunning puzzles. With no ticking clock, these puzzles offer the perfect leisurely brain exercise. If you find yourself at a standstill, there’s no need to fret! Utilize letter hints and the word shuffle feature to help you along the way. Prepare to enrich your word skills and ascend the vocabulary ladder with Wordscapes In Bloom!",
+  "how_to_play": [
+    "Challenge your mind with anagram crossword puzzles.",
+    "Tackle word unscrambling challenges in a peaceful garden setting.",
+    "Advance through levels that increase in difficulty.",
+    "Enjoy beautiful backgrounds as you solve relaxing puzzles.",
+    "Use hints and shuffles if you encounter difficulties."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/wordscapes-in-bloom/id1313561414",
+  "google_url": "https://play.google.com/store/apps/details?id=com.peoplefun.wordflowers",
+  "screenshots": [
+    "screenshots/com-peoplefun-wordflowers-0.png",
+    "screenshots/com-peoplefun-wordflowers-1.png",
+    "screenshots/com-peoplefun-wordflowers-2.png",
+    "screenshots/com-peoplefun-wordflowers-3.png",
+    "screenshots/com-peoplefun-wordflowers-4.png",
+    "screenshots/com-peoplefun-wordflowers-5.png",
+    "screenshots/com-peoplefun-wordflowers-6.png",
+    "screenshots/com-peoplefun-wordflowers-7.png",
+    "screenshots/com-peoplefun-wordflowers-8.png",
+    "screenshots/com-peoplefun-wordflowers-9.png",
+    "screenshots/com-peoplefun-wordflowers-10.png",
+    "screenshots/com-peoplefun-wordflowers-11.png",
+    "screenshots/com-peoplefun-wordflowers-12.png",
+    "screenshots/com-peoplefun-wordflowers-13.png",
+    "screenshots/com-peoplefun-wordflowers-14.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-matteljv-uno",
+      "title": "https://warap.net/images/com-matteljv-uno.png",
+      "image": "UNO!™"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "https://warap.net/images/com-dynlwpp-atur129.png",
+      "image": "Drawing Carnival"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "https://warap.net/images/com-codengamesinc-highwayracer3d.png",
+      "image": "Highway Racer 3D"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "https://warap.net/images/com-dxm-nopuzzle.png",
+      "image": "Block Puzzle"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "https://warap.net/images/com-v06-car-driving-mega-city.png",
+      "image": "Real Car Driving: Race City 3D"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "https://warap.net/images/com-mojang-minecraftpe.png",
+      "image": "Minecraft"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "https://warap.net/images/com-water-balls.png",
+      "image": "Sand Balls - Puzzle Game"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "https://warap.net/images/com-rovio-abcasual.png",
+      "image": "Angry Birds Journey"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "https://warap.net/images/com-clickteam-ultimatecustomnight.png",
+      "image": "Ultimate Custom Night"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "https://warap.net/images/com-activision-callofduty-shooter.png",
+      "image": "Call of Duty: Mobile Season 11"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "EA SPORTS FC™ Mobile Soccer",
+      "image": "com-ea-gp-fifamobile.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    }
+  ]
+}

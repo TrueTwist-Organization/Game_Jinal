@@ -1,0 +1,312 @@
+{
+  "slug": "com-ustwo-monumentvalley",
+  "title": "Monument Valley",
+  "cover": "com-ustwo-monumentvalley.png",
+  "category": "Puzzle",
+  "age": "4+",
+  "rating": "4.8",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "5 Million+",
+  "updated": "2023-10-24",
+  "size": "4 M+",
+  "description": "Experience Monument Valley - available for free download and simple installation. Completely secure with no viruses or malware. Always get the latest version effortlessly.",
+  "editor_review": "Discover the enchanting world of Monument Valley, where you will take part in a captivating adventure through impossible structures and breathtaking visuals. Lead the mysterious princess Ida through hidden monuments, revealing secret pathways and outsmarting the Crow People. This dreamlike exploration game, influenced by minimalist 3D art and optical illusions, presents a distinctively crafted environment for your discovery. Featuring intuitive controls, a mesmerizing and immersive soundtrack, and cloud save options, Monument Valley guarantees a memorable gaming journey. Whether on a tablet or smartphone, get ready to be enthralled by the magic and beauty of Monument Valley.",
+  "how_to_play": [
+    "Manipulate surreal structures and guide princess Ida through hidden monuments",
+    "Reveal secret pathways and navigate optical illusions",
+    "Outsmart the mysterious Crow People",
+    "Enjoy a surreal and captivating soundtrack",
+    "Sync your game progress across all devices"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/monument-valley/id728293409",
+  "google_url": "https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley",
+  "screenshots": [
+    "screenshots/com-ustwo-monumentvalley-0.png",
+    "screenshots/com-ustwo-monumentvalley-1.png",
+    "screenshots/com-ustwo-monumentvalley-2.png",
+    "screenshots/com-ustwo-monumentvalley-3.png",
+    "screenshots/com-ustwo-monumentvalley-4.png",
+    "screenshots/com-ustwo-monumentvalley-5.png",
+    "screenshots/com-ustwo-monumentvalley-6.png",
+    "screenshots/com-ustwo-monumentvalley-7.png",
+    "screenshots/com-ustwo-monumentvalley-8.png",
+    "screenshots/com-ustwo-monumentvalley-9.png",
+    "screenshots/com-ustwo-monumentvalley-10.png",
+    "screenshots/com-ustwo-monumentvalley-11.png",
+    "screenshots/com-ustwo-monumentvalley-12.png",
+    "screenshots/com-ustwo-monumentvalley-13.png",
+    "screenshots/com-ustwo-monumentvalley-14.png",
+    "screenshots/com-ustwo-monumentvalley-15.png",
+    "screenshots/com-ustwo-monumentvalley-16.png",
+    "screenshots/com-ustwo-monumentvalley-17.png",
+    "screenshots/com-ustwo-monumentvalley-18.png",
+    "screenshots/com-ustwo-monumentvalley-19.png",
+    "screenshots/com-ustwo-monumentvalley-20.png",
+    "screenshots/com-ustwo-monumentvalley-21.png",
+    "screenshots/com-ustwo-monumentvalley-22.png",
+    "screenshots/com-ustwo-monumentvalley-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa&#x27;s Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "Disney Frozen Adventures",
+      "image": "com-jamcity-blackforest_goo.png"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy&#x27;s 3",
+      "image": "com-scottgames-fnaf3.png"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let&#x27;s Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "My Talking Tom Friends",
+      "image": "com-outfit7-mytalkingtomfriends.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kiloo-subwaysurf",
+      "title": "Subway Surfers",
+      "image": "com-kiloo-subwaysurf.png",
+      "developer": "SYBO Games",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    }
+  ]
+}

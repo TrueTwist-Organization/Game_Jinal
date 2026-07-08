@@ -1,0 +1,306 @@
+{
+  "slug": "com-jctswbglsm-SwipeAway",
+  "title": "Tap Away",
+  "cover": "com-jctswbglsm-swipeaway.png",
+  "category": "Puzzle",
+  "age": "4+",
+  "rating": "4.1",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "42 Million+",
+  "updated": "2023-12-19",
+  "size": "33 M+",
+  "description": "Experience Tap Away - available for free download and straightforward installation. 100% secure with no threats or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Prepare to stimulate your mind and clear the blocks in Tap Away! This engaging and captivating 3D puzzle game is designed to test your abilities and elevate your experience. With its gratifying taps and demanding gameplay, Tap Away serves as an excellent brain workout to alleviate your stress and enhance your critical thinking. Rotate the shapes, progress through the levels, and personalize your blocks with stylish skins and themes. Are you ready to ascend and conquer all the challenges? Download Tap Away today and begin tapping!",
+  "how_to_play": [
+    "Tap on the blocks to finish the level",
+    "Swipe to change the shape's orientation and plan your next move",
+    "Personalize your blocks with a variety of skins and themes",
+    "Test your logic, critical thinking, and accuracy",
+    "Climb to the top and unveil new challenges"
+  ],
+  "apple_url": "null",
+  "google_url": "https://play.google.com/store/apps/details?id=com.jctswbglsm.SwipeAway",
+  "screenshots": [
+    "screenshots/com-jctswbglsm-swipeaway-0.png",
+    "screenshots/com-jctswbglsm-swipeaway-1.png",
+    "screenshots/com-jctswbglsm-swipeaway-2.png",
+    "screenshots/com-jctswbglsm-swipeaway-3.png",
+    "screenshots/com-jctswbglsm-swipeaway-4.png",
+    "screenshots/com-jctswbglsm-swipeaway-5.png",
+    "screenshots/com-jctswbglsm-swipeaway-6.png",
+    "screenshots/com-jctswbglsm-swipeaway-7.png",
+    "screenshots/com-jctswbglsm-swipeaway-8.png",
+    "screenshots/com-jctswbglsm-swipeaway-9.png",
+    "screenshots/com-jctswbglsm-swipeaway-10.png",
+    "screenshots/com-jctswbglsm-swipeaway-11.png",
+    "screenshots/com-jctswbglsm-swipeaway-12.png",
+    "screenshots/com-jctswbglsm-swipeaway-13.png",
+    "screenshots/com-jctswbglsm-swipeaway-14.png",
+    "screenshots/com-jctswbglsm-swipeaway-15.png",
+    "screenshots/com-jctswbglsm-swipeaway-16.png",
+    "screenshots/com-jctswbglsm-swipeaway-17.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "https://warap.net/images/com-peppapig-worldofpeppapig_g.png",
+      "image": "World of Peppa Pig: Kids Games"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "https://warap.net/images/air-com-aceviral-motox3m.png",
+      "image": "Moto X3M Bike Race Game"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "https://warap.net/images/com-kitkagames-fallbuddies.png",
+      "image": "Stumble Guys"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "https://warap.net/images/in-playsimple-wordsearch.png",
+      "image": "Word Search Explorer"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingangela2.png",
+      "image": "My Talking Angela 2"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "https://warap.net/images/com-budgestudios-googleplay-blueyblu.png",
+      "image": "Bluey: Let&#x27;s Play!"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "https://warap.net/images/com-topfreegames-bikeracefreeworld.png",
+      "image": "Bike Race：Motorcycle Games"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "https://warap.net/images/com-clickteam-ultimatecustomnight.png",
+      "image": "Ultimate Custom Night"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "https://warap.net/images/com-mobgames-poppymobilechap1.png",
+      "image": "Poppy Playtime Chapter 1"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "https://warap.net/images/com-oppanagames-car-simulator.png",
+      "image": "Car Simulator 2"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "https://warap.net/images/com-game-colorroll3d.png",
+      "image": "Color Roll 3D"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "Pokémon GO",
+      "image": "com-nianticlabs-pokemongo.png",
+      "developer": "Niantic, Inc.",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png",
+      "developer": "Supercell",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    }
+  ]
+}

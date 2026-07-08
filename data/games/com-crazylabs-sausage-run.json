@@ -1,0 +1,312 @@
+{
+  "slug": "com-crazylabs-sausage-run",
+  "title": "Run Sausage Run!",
+  "cover": "com-crazylabs-sausage-run.png",
+  "category": "Arcade",
+  "age": "10+",
+  "rating": "4.2",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "118 Million+",
+  "updated": "2023-11-20",
+  "size": "117 M+",
+  "description": "Download Run Sausage Run! at no cost and enjoy seamless installation. Completely secure with zero malware or viruses. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Prepare for a deliciously chaotic journey in Run, Sausage, run! This exciting and incredibly engaging endless runner game will have you dashing for survival as a scrumptious sausage, dodging all sorts of dangers like slicing, chopping, burning, and smashing. With numerous sausages to select from and amusing hot dog skins to unlock, the possibilities are limitless. Gather coins to purchase power-ups and 'buns of steel' to boost your performance. Don't miss the thrill of this hot dog’s adventure – or its nightmares! So, get ready to showcase that sausage physique and start sprinting!",
+  "how_to_play": [
+    "Select your favorite delicious sausage and begin your run",
+    "Steer clear of being sliced, chopped, burned, or crushed",
+    "Collect coins to invest in power-ups and buns of steel",
+    "Explore an array of sausages and hot dog skins",
+    "Endure as long as possible in this never-ending quest"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/run-sausage-run/id1236677535",
+  "google_url": "https://play.google.com/store/apps/details?id=com.crazylabs.sausage.run",
+  "screenshots": [
+    "screenshots/com-crazylabs-sausage-run-0.png",
+    "screenshots/com-crazylabs-sausage-run-1.png",
+    "screenshots/com-crazylabs-sausage-run-2.png",
+    "screenshots/com-crazylabs-sausage-run-3.png",
+    "screenshots/com-crazylabs-sausage-run-4.png",
+    "screenshots/com-crazylabs-sausage-run-5.png",
+    "screenshots/com-crazylabs-sausage-run-6.png",
+    "screenshots/com-crazylabs-sausage-run-7.png",
+    "screenshots/com-crazylabs-sausage-run-8.png",
+    "screenshots/com-crazylabs-sausage-run-9.png",
+    "screenshots/com-crazylabs-sausage-run-10.png",
+    "screenshots/com-crazylabs-sausage-run-11.png",
+    "screenshots/com-crazylabs-sausage-run-12.png",
+    "screenshots/com-crazylabs-sausage-run-13.png",
+    "screenshots/com-crazylabs-sausage-run-14.png",
+    "screenshots/com-crazylabs-sausage-run-15.png",
+    "screenshots/com-crazylabs-sausage-run-16.png",
+    "screenshots/com-crazylabs-sausage-run-17.png",
+    "screenshots/com-crazylabs-sausage-run-18.png",
+    "screenshots/com-crazylabs-sausage-run-19.png",
+    "screenshots/com-crazylabs-sausage-run-20.png",
+    "screenshots/com-crazylabs-sausage-run-21.png",
+    "screenshots/com-crazylabs-sausage-run-22.png",
+    "screenshots/com-crazylabs-sausage-run-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "https://warap.net/images/com-weegoon-thiefpuzzle.png",
+      "image": "Thief Puzzle: to pass a level"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtom2.png",
+      "image": "My Talking Tom 2"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "https://warap.net/images/com-rovio-abcasual.png",
+      "image": "Angry Birds Journey"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "https://warap.net/images/com-block-juggle.png",
+      "image": "Block Blast!"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "https://warap.net/images/com-ea-game-pvzfree_row.png",
+      "image": "Plants vs. Zombies™"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "https://warap.net/images/in-playsimple-wordsearch.png",
+      "image": "Word Search Explorer"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "https://warap.net/images/com-amanotes-gs-g06.png",
+      "image": "Duet Cats: Cute Cat Game"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "https://warap.net/images/com-scottgames-fnaf2.png",
+      "image": "Five Nights at Freddy&#x27;s 2"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "https://warap.net/images/com-tocaboca-tocakitchen2.png",
+      "image": "Toca Boca Jr"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "https://warap.net/images/com-peppapig-worldofpeppapig_g.png",
+      "image": "World of Peppa Pig: Kids Games"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "Fruit Ninja 2 Fun Action Games",
+      "image": "com-halfbrick-fruitninjax.png",
+      "developer": "Halfbrick Studios",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    }
+  ]
+}

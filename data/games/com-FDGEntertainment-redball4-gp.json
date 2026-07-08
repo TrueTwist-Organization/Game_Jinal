@@ -1,0 +1,320 @@
+{
+  "slug": "com-FDGEntertainment-redball4-gp",
+  "title": "Red Ball 4",
+  "cover": "com-fdgentertainment-redball4-gp.png",
+  "category": "Arcade",
+  "age": "4+",
+  "rating": "4.6",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "234 Million+",
+  "updated": "2023-11-30",
+  "size": "226 M+",
+  "description": "Download Red Ball 4 effortlessly and without any cost. Completely secure, free from viruses or malware. Always get the latest version with convenience.",
+  "editor_review": "Prepare yourself for a thrilling journey with Red Ball! This dynamic game delivers excitement as you roll, jump, and bounce through 75 challenging stages. Face off against formidable bosses, explore engaging physics features, and groove to an upbeat soundtrack – Red Ball will keep you captivated for hours. With cloud and HID controller support, you can enjoy gaming anytime, anywhere. Can you thwart the evil minions and their square-shaped plans? It's time to roll into action and discover!",
+  "how_to_play": [
+    "Navigate through 75 thrilling levels by rolling, jumping, and bouncing.",
+    "Overcome all monsters and navigate tricky traps.",
+    "Challenge yourself with epic boss encounters for added difficulty.",
+    "Enjoy the lively soundtrack while you play.",
+    "Use unique physics elements to gain an upper hand."
+  ],
+  "apple_url": "https://apps.apple.com/us/app/red-ball-4/id852197796",
+  "google_url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.redball4.gp",
+  "screenshots": [
+    "screenshots/com-fdgentertainment-redball4-gp-0.png",
+    "screenshots/com-fdgentertainment-redball4-gp-1.png",
+    "screenshots/com-fdgentertainment-redball4-gp-2.png",
+    "screenshots/com-fdgentertainment-redball4-gp-3.png",
+    "screenshots/com-fdgentertainment-redball4-gp-4.png",
+    "screenshots/com-fdgentertainment-redball4-gp-5.png",
+    "screenshots/com-fdgentertainment-redball4-gp-6.png",
+    "screenshots/com-fdgentertainment-redball4-gp-7.png",
+    "screenshots/com-fdgentertainment-redball4-gp-8.png",
+    "screenshots/com-fdgentertainment-redball4-gp-9.png",
+    "screenshots/com-fdgentertainment-redball4-gp-10.png",
+    "screenshots/com-fdgentertainment-redball4-gp-11.png",
+    "screenshots/com-fdgentertainment-redball4-gp-12.png",
+    "screenshots/com-fdgentertainment-redball4-gp-13.png",
+    "screenshots/com-fdgentertainment-redball4-gp-14.png",
+    "screenshots/com-fdgentertainment-redball4-gp-15.png",
+    "screenshots/com-fdgentertainment-redball4-gp-16.png",
+    "screenshots/com-fdgentertainment-redball4-gp-17.png",
+    "screenshots/com-fdgentertainment-redball4-gp-18.png",
+    "screenshots/com-fdgentertainment-redball4-gp-19.png",
+    "screenshots/com-fdgentertainment-redball4-gp-20.png",
+    "screenshots/com-fdgentertainment-redball4-gp-21.png",
+    "screenshots/com-fdgentertainment-redball4-gp-22.png",
+    "screenshots/com-fdgentertainment-redball4-gp-23.png",
+    "screenshots/com-fdgentertainment-redball4-gp-24.png",
+    "screenshots/com-fdgentertainment-redball4-gp-25.png",
+    "screenshots/com-fdgentertainment-redball4-gp-26.png",
+    "screenshots/com-fdgentertainment-redball4-gp-27.png",
+    "screenshots/com-fdgentertainment-redball4-gp-28.png",
+    "screenshots/com-fdgentertainment-redball4-gp-29.png",
+    "screenshots/com-fdgentertainment-redball4-gp-30.png",
+    "screenshots/com-fdgentertainment-redball4-gp-31.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png"
+    },
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "Magic Tiles 3",
+      "image": "com-youmusic-magictiles.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-amanotes-gs-g06",
+      "title": "Duet Cats: Cute Cat Game",
+      "image": "com-amanotes-gs-g06.png",
+      "developer": "AMANOTES PTE LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "air-com-flipline-papasfreezeriatogo",
+      "title": "Papa's Freezeria To Go!",
+      "image": "air-com-flipline-papasfreezeriatogo.png",
+      "developer": "Flipline Studios",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "Tic Tac Toe - 2 Player XO",
+      "image": "com-cdg-tictactoe.png",
+      "developer": "CDT Puzzle Studio",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    }
+  ]
+}

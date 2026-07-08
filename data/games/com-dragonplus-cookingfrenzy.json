@@ -1,0 +1,320 @@
+{
+  "slug": "com-dragonplus-cookingfrenzy",
+  "title": "Stack Ball - Crash Platforms",
+  "cover": "com-dragonplus-cookingfrenzy.png",
+  "category": "Strategy",
+  "age": "4+",
+  "rating": "4.7",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "28 Million+",
+  "updated": "2023-09-28",
+  "size": "23 M+",
+  "description": "Dive into Cooking Frenzy®️ - available for free download and simple installation. Completely secure with no threats or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "🍳Cooking Frenzy is the premier kitchen restaurant experience that blends collection and time-management gameplay! Immerse yourself in the culinary excitement and go on a quest to fill a valuable album featuring global cuisines. Journey across various countries, prepare, and serve mouthwatering meals, gather distinctive cards, and enhance your collections to achieve recognition. With exhilarating gameplay, genuine recipes, and abundant rewards, Cooking Frenzy provides limitless entertainment and a breathtaking visual experience. Strive to be a culinary expert and revel in the excitement of these international dining establishments!",
+  "how_to_play": [
+    "Tap to incorporate ingredients and create target dishes!",
+    "Deliver the right meals to satisfy your customers!",
+    "Gather unique cards and finalize sophisticated collections!",
+    "Enhance your kitchen by clearing levels and unlocking new challenges!",
+    "Sharpen your culinary skills and prepare global cuisines in reality!"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/cooking-frenzy-crazy-chef/id1471955633",
+  "google_url": "https://play.google.com/store/apps/details?id=com.dragonplus.cookingfrenzy",
+  "screenshots": [
+    "screenshots/com-dragonplus-cookingfrenzy-0.png",
+    "screenshots/com-dragonplus-cookingfrenzy-1.png",
+    "screenshots/com-dragonplus-cookingfrenzy-2.png",
+    "screenshots/com-dragonplus-cookingfrenzy-3.png",
+    "screenshots/com-dragonplus-cookingfrenzy-4.png",
+    "screenshots/com-dragonplus-cookingfrenzy-5.png",
+    "screenshots/com-dragonplus-cookingfrenzy-6.png",
+    "screenshots/com-dragonplus-cookingfrenzy-7.png",
+    "screenshots/com-dragonplus-cookingfrenzy-8.png",
+    "screenshots/com-dragonplus-cookingfrenzy-9.png",
+    "screenshots/com-dragonplus-cookingfrenzy-10.png",
+    "screenshots/com-dragonplus-cookingfrenzy-11.png",
+    "screenshots/com-dragonplus-cookingfrenzy-12.png",
+    "screenshots/com-dragonplus-cookingfrenzy-13.png",
+    "screenshots/com-dragonplus-cookingfrenzy-14.png",
+    "screenshots/com-dragonplus-cookingfrenzy-15.png",
+    "screenshots/com-dragonplus-cookingfrenzy-16.png",
+    "screenshots/com-dragonplus-cookingfrenzy-17.png",
+    "screenshots/com-dragonplus-cookingfrenzy-18.png",
+    "screenshots/com-dragonplus-cookingfrenzy-19.png",
+    "screenshots/com-dragonplus-cookingfrenzy-20.png",
+    "screenshots/com-dragonplus-cookingfrenzy-21.png",
+    "screenshots/com-dragonplus-cookingfrenzy-22.png",
+    "screenshots/com-dragonplus-cookingfrenzy-23.png",
+    "screenshots/com-dragonplus-cookingfrenzy-24.png",
+    "screenshots/com-dragonplus-cookingfrenzy-25.png",
+    "screenshots/com-dragonplus-cookingfrenzy-26.png",
+    "screenshots/com-dragonplus-cookingfrenzy-27.png",
+    "screenshots/com-dragonplus-cookingfrenzy-28.png",
+    "screenshots/com-dragonplus-cookingfrenzy-29.png",
+    "screenshots/com-dragonplus-cookingfrenzy-30.png",
+    "screenshots/com-dragonplus-cookingfrenzy-31.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png"
+    },
+    {
+      "slug": "com-supercell-hayday",
+      "title": "Hay Day",
+      "image": "com-supercell-hayday.png"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "Angry Birds Journey",
+      "image": "com-rovio-abcasual.png"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "The Baby In Yellow",
+      "image": "com-teamterrible-babyinyellow.png"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-v06-car-driving-mega-city",
+      "title": "Real Car Driving: Race City 3D",
+      "image": "com-v06-car-driving-mega-city.png",
+      "developer": "Botanica Global",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "Geometry Dash Lite",
+      "image": "com-robtopx-geometryjumplite.png",
+      "developer": "RobTop Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "Hill Climb Racing 2",
+      "image": "com-fingersoft-hcr2.png",
+      "developer": "Fingersoft",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "Brawl Stars",
+      "image": "com-supercell-brawlstars.png",
+      "developer": "Supercell",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "World of Peppa Pig: Kids Games",
+      "image": "com-peppapig-worldofpeppapig_g.png",
+      "developer": "Entertainment One",
+      "rating": "3.5"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    }
+  ]
+}

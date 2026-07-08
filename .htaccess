@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteBase /
+
+# Serve existing files/directories directly
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Game detail pages: /explore/game/slug.html or /explore/game/slug
+RewriteRule ^explore/game/([^/.]+)\.html?$ explore/game.php?slug=$1 [L,QSA]
+
+# Static explore pages
+RewriteRule ^explore/contact\.html?$ explore/contact.php [L]
+RewriteRule ^explore/privacy\.html?$ explore/privacy.php [L]
+RewriteRule ^explore/terms\.html?$ explore/terms.php [L]
+
+# Homepage
+RewriteRule ^index\.html?$ index.php [L]

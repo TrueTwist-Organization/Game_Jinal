@@ -1,0 +1,295 @@
+{
+  "slug": "ru-galya-drawjoust",
+  "title": "Draw Joust!",
+  "cover": "ru-galya-drawjoust.png",
+  "category": "Action",
+  "age": "10+",
+  "rating": "4.4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "113 Million+",
+  "updated": "2023-10-10",
+  "size": "107 M+",
+  "description": "Experience Draw Joust! - available for free download and simple installation. Completely secure with zero viruses or malware. Access the most up-to-date version effortlessly.",
+  "editor_review": "Prepare yourself for an exhilarating jousting adventure! In this game, you can design and craft your own vehicle tailored to your specifications. Choose the ideal weapon and forge robust armor—every aspect is crucial in your quest for championship glory. Once your vehicle is complete, step into the arena to challenge rivals. Can you outsmart and outmaneuver them during this fierce combat? With captivating gameplay and exciting jousting moments, this app promises endless fun. Get set to show that you've got what it takes to triumph in the tournament!",
+  "how_to_play": [
+    "Craft your vehicle using an assortment of weapons, armor, and enhancements",
+    "Select the optimal strategy to overcome your adversary in combat",
+    "Refine your timing and precision to achieve the perfect strike",
+    "Collect rewards and upgrades as you advance through the tournament",
+    "Compete with friends to determine who possesses the mightiest vehicle"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/draw-joust/id1497532365",
+  "google_url": "https://play.google.com/store/apps/details?id=ru.galya.drawjoust",
+  "screenshots": [
+    "screenshots/ru-galya-drawjoust-0.png",
+    "screenshots/ru-galya-drawjoust-1.png",
+    "screenshots/ru-galya-drawjoust-2.png",
+    "screenshots/ru-galya-drawjoust-3.png",
+    "screenshots/ru-galya-drawjoust-4.png",
+    "screenshots/ru-galya-drawjoust-5.png",
+    "screenshots/ru-galya-drawjoust-6.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "https://warap.net/images/com-youmusic-magictiles.png",
+      "image": "Magic Tiles 3"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "https://warap.net/images/com-rovio-abcasual.png",
+      "image": "Angry Birds Journey"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdyhm.png",
+      "image": "Disney Magic Kingdoms"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "https://warap.net/images/air-com-hypah-io-slither.png",
+      "image": "slither.io"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "https://warap.net/images/com-topfreegames-bikeracefreeworld.png",
+      "image": "Bike Race：Motorcycle Games"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "https://warap.net/images/com-weegoon-thiefpuzzle.png",
+      "image": "Thief Puzzle: to pass a level"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "https://warap.net/images/com-zakg-scaryteacher-hellgame.png",
+      "image": "Scary Teacher 3D"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-gloftdmhm.png",
+      "image": "Minion Rush: Running Game"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "https://warap.net/images/com-mobgames-poppymobilechap1.png",
+      "image": "Poppy Playtime Chapter 1"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "https://warap.net/images/com-scottgames-fnaf3.png",
+      "image": "Five Nights at Freddy&#x27;s 3"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "https://warap.net/images/com-jamcity-blackforest_goo.png",
+      "image": "Disney Frozen Adventures"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "https://warap.net/images/com-playrix-gardenscapes.png",
+      "image": "Gardenscapes"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "https://warap.net/images/com-crazy-block-robo-monster-cliffs-craft.png",
+      "image": "Block Crazy Robo World"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "Teen Titans GO Figure!",
+      "image": "com-turner-ttgfigures2.png",
+      "developer": "Cartoon Network",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "Asphalt 9: Legends",
+      "image": "com-gameloft-android-anmp-glofta9hm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "Among Us",
+      "image": "com-innersloth-spacemafia.png",
+      "developer": "Innersloth LLC",
+      "rating": "3.8"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "UNO!™",
+      "image": "com-matteljv-uno.png",
+      "developer": "Mattel163 Limited",
+      "rating": "4.5"
+    },
+    {
+      "slug": "air-com-aceviral-motox3m",
+      "title": "Moto X3M Bike Race Game",
+      "image": "air-com-aceviral-motox3m.png",
+      "developer": "Ace Viral",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "Talking Tom Gold Run",
+      "image": "com-outfit7-talkingtomgoldrun.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    }
+  ]
+}

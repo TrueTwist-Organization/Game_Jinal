@@ -1,0 +1,306 @@
+{
+  "slug": "com-dvloper-slendrinacellarfree",
+  "title": "Slendrina: The Cellar",
+  "cover": "com-dvloper-slendrinacellarfree.png",
+  "category": "Arcade",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "55 Million+",
+  "updated": "2023-08-25",
+  "size": "54 M+",
+  "description": "Experience Slendrina: The Cellar - available for free download and simple installation. Completely safe with no harmful software. Always access the latest version quickly.",
+  "editor_review": "Prepare yourself for an exhilarating horror journey with Slendrina The Cellar. This malevolent figure has grown more dangerous and will do everything possible to keep intruders away from her domain. Your goal is to uncover 8 ancient books hidden within the shadowy cellar and make a bold escape. However, keys are essential to access specific doors, and the books might be concealed in unexpected places. With gripping gameplay and a chilling atmosphere, Slendrina The Cellar is essential for horror game enthusiasts. Download now and get ready for a scare!",
+  "how_to_play": [
+    "Explore the dark cellar to locate 8 ancient books",
+    "Gather keys to unlock sealed doors",
+    "Avoid Slendrina and resist the urge to look back",
+    "Execute a bold escape towards the exit",
+    "Stay alert for shocking moments and intense scenes"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/slendrina-the-cellar/id965312947",
+  "google_url": "https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree",
+  "screenshots": [
+    "screenshots/com-dvloper-slendrinacellarfree-0.png",
+    "screenshots/com-dvloper-slendrinacellarfree-1.png",
+    "screenshots/com-dvloper-slendrinacellarfree-2.png",
+    "screenshots/com-dvloper-slendrinacellarfree-3.png",
+    "screenshots/com-dvloper-slendrinacellarfree-4.png",
+    "screenshots/com-dvloper-slendrinacellarfree-5.png",
+    "screenshots/com-dvloper-slendrinacellarfree-6.png",
+    "screenshots/com-dvloper-slendrinacellarfree-7.png",
+    "screenshots/com-dvloper-slendrinacellarfree-8.png",
+    "screenshots/com-dvloper-slendrinacellarfree-9.png",
+    "screenshots/com-dvloper-slendrinacellarfree-10.png",
+    "screenshots/com-dvloper-slendrinacellarfree-11.png",
+    "screenshots/com-dvloper-slendrinacellarfree-12.png",
+    "screenshots/com-dvloper-slendrinacellarfree-13.png",
+    "screenshots/com-dvloper-slendrinacellarfree-14.png",
+    "screenshots/com-dvloper-slendrinacellarfree-15.png",
+    "screenshots/com-dvloper-slendrinacellarfree-16.png",
+    "screenshots/com-dvloper-slendrinacellarfree-17.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-roblox-client",
+      "title": "https://warap.net/images/com-roblox-client.png",
+      "image": "Roblox"
+    },
+    {
+      "slug": "com-innersloth-spacemafia",
+      "title": "https://warap.net/images/com-innersloth-spacemafia.png",
+      "image": "Among Us"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "https://warap.net/images/com-dxm-nopuzzle.png",
+      "image": "Block Puzzle"
+    },
+    {
+      "slug": "com-outfit7-talkingtomgoldrun",
+      "title": "https://warap.net/images/com-outfit7-talkingtomgoldrun.png",
+      "image": "Talking Tom Gold Run"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "https://warap.net/images/com-studio27-melonplayground.png",
+      "image": "Melon Sandbox"
+    },
+    {
+      "slug": "com-matteljv-uno",
+      "title": "https://warap.net/images/com-matteljv-uno.png",
+      "image": "UNO!™"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "https://warap.net/images/com-mojang-minecraftpe.png",
+      "image": "Minecraft"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "https://warap.net/images/com-toiletstory-toiletdop-deleteonepart.png",
+      "image": "Head Monster: DOP Story"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "https://warap.net/images/com-supercell-clashroyale.png",
+      "image": "Clash Royale"
+    },
+    {
+      "slug": "com-halfbrick-fruitninjax",
+      "title": "https://warap.net/images/com-halfbrick-fruitninjax.png",
+      "image": "Fruit Ninja 2 Fun Action Games"
+    },
+    {
+      "slug": "com-fingersoft-hcr2",
+      "title": "https://warap.net/images/com-fingersoft-hcr2.png",
+      "image": "Hill Climb Racing 2"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    },
+    {
+      "slug": "com-robtopx-geometryjumplite",
+      "title": "https://warap.net/images/com-robtopx-geometryjumplite.png",
+      "image": "Geometry Dash Lite"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    },
+    {
+      "slug": "com-peppapig-worldofpeppapig_g",
+      "title": "https://warap.net/images/com-peppapig-worldofpeppapig_g.png",
+      "image": "World of Peppa Pig: Kids Games"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "Call of Duty: Mobile Season 11",
+      "image": "com-activision-callofduty-shooter.png",
+      "developer": "Activision Publishing, Inc.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-water-balls",
+      "title": "Sand Balls - Puzzle Game",
+      "image": "com-water-balls.png",
+      "developer": "SayGames Ltd",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-hts-ams",
+      "title": "Army Men Strike: Toy Wars",
+      "image": "com-hts-ams.png",
+      "developer": "Volcano Force",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "Super Mario Run",
+      "image": "com-nintendo-zara.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-scottgames-fnaf2",
+      "title": "Five Nights at Freddy's 2",
+      "image": "com-scottgames-fnaf2.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "My Talking Tom 2",
+      "image": "com-outfit7-mytalkingtom2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-game-colorroll3d",
+      "title": "Color Roll 3D",
+      "image": "com-game-colorroll3d.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "My Talking Angela 2",
+      "image": "com-outfit7-mytalkingangela2.png",
+      "developer": "Outfit7 Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "in-playsimple-wordsearch",
+      "title": "Word Search Explorer",
+      "image": "in-playsimple-wordsearch.png",
+      "developer": "PlaySimple Games",
+      "rating": "4.9"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "Grima Monster Scary Survival",
+      "image": "com-weup-grimace-monster-scary-survival.png",
+      "developer": "Reed Been",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "Five Nights at Freddy's",
+      "image": "com-scottgames-fivenightsatfreddys.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.8"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "com-rockstargames-gtasa.png",
+      "developer": "Rockstar Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-weegoon-thiefpuzzle",
+      "title": "Thief Puzzle: to pass a level",
+      "image": "com-weegoon-thiefpuzzle.png",
+      "developer": "TapNation",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+_scrape/
+assets/cache/
+bin/
+preview-*.png
+.DS_Store
+*.log
+.env

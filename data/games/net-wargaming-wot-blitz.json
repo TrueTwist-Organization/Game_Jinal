@@ -1,0 +1,316 @@
+{
+  "slug": "net-wargaming-wot-blitz",
+  "title": "World of Tanks Blitz - PVP MMO",
+  "cover": "net-wargaming-wot-blitz.png",
+  "category": "Action",
+  "age": "4+",
+  "rating": "4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "147 Million+",
+  "updated": "2023-12-07",
+  "size": "141 M+",
+  "description": "Dive into World of Tanks Blitz - a thrilling PVP MMO that's free to download and simple to install. Completely safe, with no risks of viruses or malware. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Prepare for an exhilarating MMO shooter experience that stands out! World of Tanks Blitz unites millions of players worldwide in exhilarating tank warfare. Select from a diverse range of over 400 historically accurate tanks, featuring legendary vehicles from World War II and unique designs inspired by renowned engineers and popular anime. Tailor your tanks with various weapons, equipment, and camouflage to align with your gameplay style. Engage in intense PvP skirmishes, participate in regular events, and navigate through diverse maps that promise endless excitement. Team up with friends in platoons or clans to conquer the battlefield collectively. Immerse yourself in breathtaking visuals and captivating gameplay. Download World of Tanks Blitz today and embark on your adventurous tank journey!",
+  "how_to_play": [
+    "Select from a vast array of 400 authentic tanks and experience thrilling 7x7 combat",
+    "Enhance your tanks with a variety of weapons, equipment, and unique camouflage options",
+    "Discover an extensive selection of maps, showcasing notable historical sites and imaginative realms",
+    "Collaborate with friends in platoons or clans to secure victory in ranking battles and competitions",
+    "Experience stunning graphics and dynamic gameplay that keeps you on the edge of your seat"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/world-of-tanks-blitz-3d-war/id859204347",
+  "google_url": "https://play.google.com/store/apps/details?id=net.wargaming.wot.blitz",
+  "screenshots": [
+    "screenshots/net-wargaming-wot-blitz-0.png",
+    "screenshots/net-wargaming-wot-blitz-1.png",
+    "screenshots/net-wargaming-wot-blitz-2.png",
+    "screenshots/net-wargaming-wot-blitz-3.png",
+    "screenshots/net-wargaming-wot-blitz-4.png",
+    "screenshots/net-wargaming-wot-blitz-5.png",
+    "screenshots/net-wargaming-wot-blitz-6.png",
+    "screenshots/net-wargaming-wot-blitz-7.png",
+    "screenshots/net-wargaming-wot-blitz-8.png",
+    "screenshots/net-wargaming-wot-blitz-9.png",
+    "screenshots/net-wargaming-wot-blitz-10.png",
+    "screenshots/net-wargaming-wot-blitz-11.png",
+    "screenshots/net-wargaming-wot-blitz-12.png",
+    "screenshots/net-wargaming-wot-blitz-13.png",
+    "screenshots/net-wargaming-wot-blitz-14.png",
+    "screenshots/net-wargaming-wot-blitz-15.png",
+    "screenshots/net-wargaming-wot-blitz-16.png",
+    "screenshots/net-wargaming-wot-blitz-17.png",
+    "screenshots/net-wargaming-wot-blitz-18.png",
+    "screenshots/net-wargaming-wot-blitz-19.png",
+    "screenshots/net-wargaming-wot-blitz-20.png",
+    "screenshots/net-wargaming-wot-blitz-21.png",
+    "screenshots/net-wargaming-wot-blitz-22.png",
+    "screenshots/net-wargaming-wot-blitz-23.png",
+    "screenshots/net-wargaming-wot-blitz-24.png",
+    "screenshots/net-wargaming-wot-blitz-25.png",
+    "screenshots/net-wargaming-wot-blitz-26.png",
+    "screenshots/net-wargaming-wot-blitz-27.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "https://warap.net/images/com-scottgames-fnaf3.png",
+      "image": "Five Nights at Freddy&#x27;s 3"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtom2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtom2.png",
+      "image": "My Talking Tom 2"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "https://warap.net/images/com-bgg-jump.png",
+      "image": "Project Makeover"
+    },
+    {
+      "slug": "com-nianticlabs-pokemongo",
+      "title": "https://warap.net/images/com-nianticlabs-pokemongo.png",
+      "image": "Pokémon GO"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftA9HM",
+      "title": "https://warap.net/images/com-gameloft-android-anmp-glofta9hm.png",
+      "image": "Asphalt 9: Legends"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "https://warap.net/images/com-playrix-gardenscapes.png",
+      "image": "Gardenscapes"
+    },
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "https://warap.net/images/com-crazy-block-robo-monster-cliffs-craft.png",
+      "image": "Block Crazy Robo World"
+    },
+    {
+      "slug": "com-rockstargames-gtasa",
+      "title": "https://warap.net/images/com-rockstargames-gtasa.png",
+      "image": "Grand Theft Auto: San Andreas"
+    },
+    {
+      "slug": "com-activision-callofduty-shooter",
+      "title": "https://warap.net/images/com-activision-callofduty-shooter.png",
+      "image": "Call of Duty: Mobile Season 11"
+    },
+    {
+      "slug": "com-turner-ttgfigures2",
+      "title": "https://warap.net/images/com-turner-ttgfigures2.png",
+      "image": "Teen Titans GO Figure!"
+    },
+    {
+      "slug": "com-supercell-brawlstars",
+      "title": "https://warap.net/images/com-supercell-brawlstars.png",
+      "image": "Brawl Stars"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    },
+    {
+      "slug": "com-weup-grimace-monster-scary-survival",
+      "title": "https://warap.net/images/com-weup-grimace-monster-scary-survival.png",
+      "image": "Grima Monster Scary Survival"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "https://warap.net/images/com-playgendary-kickthebuddy.png",
+      "image": "Kick the Buddy"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-azurgames-stackball",
+      "title": "Stack Ball - Crash Platforms",
+      "image": "com-azurgames-stackball.png",
+      "developer": "CASUAL AZUR GAMES",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-block-juggle",
+      "title": "Block Blast!",
+      "image": "com-block-juggle.png",
+      "developer": "Hungry Studio",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "Fishdom",
+      "image": "com-playrix-fishdomdd-gplay.png",
+      "developer": "Playrix",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-roblox-client",
+      "title": "Roblox",
+      "image": "com-roblox-client.png",
+      "developer": "Roblox Corporation",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-zakg-scaryteacher-hellgame",
+      "title": "Scary Teacher 3D",
+      "image": "com-zakg-scaryteacher-hellgame.png",
+      "developer": "Z &amp; K Games",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "Bluey: Let's Play!",
+      "image": "com-budgestudios-googleplay-blueyblu.png",
+      "developer": "Budge Studios",
+      "rating": "4"
+    },
+    {
+      "slug": "com-toiletstory-toiletdop-deleteonepart",
+      "title": "Head Monster: DOP Story",
+      "image": "com-toiletstory-toiletdop-deleteonepart.png",
+      "developer": "Debbie Shine",
+      "rating": "4"
+    },
+    {
+      "slug": "com-topfreegames-bikeracefreeworld",
+      "title": "Bike Race：Motorcycle Games",
+      "image": "com-topfreegames-bikeracefreeworld.png",
+      "developer": "Wildlife Inc.",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "air-com-hypah-io-slither",
+      "title": "slither.io",
+      "image": "air-com-hypah-io-slither.png",
+      "developer": "Lowtech Studios",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-motionvolt-flipbounce",
+      "title": "Flip Master",
+      "image": "com-motionvolt-flipbounce.png",
+      "developer": "MotionVolt Games Ltd",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "Cooking Fever: Restaurant Game",
+      "image": "com-nordcurrent-canteenhd.png",
+      "developer": "Nordcurrent Games",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-clickteam-ultimatecustomnight",
+      "title": "Ultimate Custom Night",
+      "image": "com-clickteam-ultimatecustomnight.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-tinybuildgames-helloneighbor",
+      "title": "Hello Neighbor",
+      "image": "com-tinybuildgames-helloneighbor.png",
+      "developer": "tinyBuild",
+      "rating": "3.9"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "Dark Riddle",
+      "image": "com-neighbors-darkriddle.png",
+      "developer": "PAGA GAMES",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "Minecraft",
+      "image": "com-mojang-minecraftpe.png",
+      "developer": "Mojang",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-fungames-sniper3d",
+      "title": "Sniper 3D：Gun Shooting Games",
+      "image": "com-fungames-sniper3d.png",
+      "developer": "Fun Games For Free",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-edujoy-masha-games",
+      "title": "Masha and the Bear Educational",
+      "image": "com-edujoy-masha-games.png",
+      "developer": "DTC Lab",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    }
+  ]
+}

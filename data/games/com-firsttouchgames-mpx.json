@@ -1,0 +1,312 @@
+{
+  "slug": "com-firsttouchgames-mpx",
+  "title": "Ultimate Draft Soccer",
+  "cover": "com-firsttouchgames-mpx.png",
+  "category": "Sports",
+  "age": "4+",
+  "rating": "4.4",
+  "platform": "Android",
+  "price": "Free",
+  "installs": "4 Million+",
+  "updated": "2023-10-30",
+  "size": "168 W+",
+  "description": "Experience Ultimate Draft Soccer - available for free download and simple installation. Guaranteed safety with no malware or viruses. Always stay updated with the latest version effortlessly.",
+  "editor_review": "Prepare yourself for a premier football adventure with Ultimate Draft Soccer! Assemble your ideal team featuring authentic FIFPRO™ licensed athletes and participate in thrilling live PvP matches. Enjoy breathtaking visuals and user-friendly gameplay as you carefully select your squad, enhance players, and refine your strategies. Dive into vibrant, dynamic 3D action with intuitive finger-swiping controls and perfectly timed tackles. Ascend the ranks, reach personal goals, and earn rewards and trophies to showcase on global leaderboards. Personalize your team with distinct mascots, kits, and emblems. Jump into the excitement today!",
+  "how_to_play": [
+    "Gather and upgrade authentic FIFPRO™ licensed players",
+    "Select your formation and pivotal roles for each game",
+    "Perfect your finger-swiping skills to create stunning passes and net goals",
+    "Predict opponent movements and refine your tackle timing",
+    "Advance through the ranks and achieve your personal goals"
+  ],
+  "apple_url": "https://apps.apple.com/us/app/ultimate-draft-soccer/id1506588619",
+  "google_url": "https://play.google.com/store/apps/details?id=com.firsttouchgames.mpx",
+  "screenshots": [
+    "screenshots/com-firsttouchgames-mpx-0.png",
+    "screenshots/com-firsttouchgames-mpx-1.png",
+    "screenshots/com-firsttouchgames-mpx-2.png",
+    "screenshots/com-firsttouchgames-mpx-3.png",
+    "screenshots/com-firsttouchgames-mpx-4.png",
+    "screenshots/com-firsttouchgames-mpx-5.png",
+    "screenshots/com-firsttouchgames-mpx-6.png",
+    "screenshots/com-firsttouchgames-mpx-7.png",
+    "screenshots/com-firsttouchgames-mpx-8.png",
+    "screenshots/com-firsttouchgames-mpx-9.png",
+    "screenshots/com-firsttouchgames-mpx-10.png",
+    "screenshots/com-firsttouchgames-mpx-11.png",
+    "screenshots/com-firsttouchgames-mpx-12.png",
+    "screenshots/com-firsttouchgames-mpx-13.png",
+    "screenshots/com-firsttouchgames-mpx-14.png",
+    "screenshots/com-firsttouchgames-mpx-15.png",
+    "screenshots/com-firsttouchgames-mpx-16.png",
+    "screenshots/com-firsttouchgames-mpx-17.png",
+    "screenshots/com-firsttouchgames-mpx-18.png",
+    "screenshots/com-firsttouchgames-mpx-19.png",
+    "screenshots/com-firsttouchgames-mpx-20.png",
+    "screenshots/com-firsttouchgames-mpx-21.png",
+    "screenshots/com-firsttouchgames-mpx-22.png",
+    "screenshots/com-firsttouchgames-mpx-23.png"
+  ],
+  "histogram": [
+    {
+      "stars": 5,
+      "width": "73%"
+    },
+    {
+      "stars": 4,
+      "width": "10%"
+    },
+    {
+      "stars": 3,
+      "width": "6%"
+    },
+    {
+      "stars": 2,
+      "width": "2%"
+    },
+    {
+      "stars": 1,
+      "width": "9%"
+    }
+  ],
+  "featured": [
+    {
+      "slug": "com-cdg-tictactoe",
+      "title": "https://warap.net/images/com-cdg-tictactoe.png",
+      "image": "Tic Tac Toe - 2 Player XO"
+    },
+    {
+      "slug": "com-nordcurrent-canteenhd",
+      "title": "https://warap.net/images/com-nordcurrent-canteenhd.png",
+      "image": "Cooking Fever: Restaurant Game"
+    },
+    {
+      "slug": "com-nintendo-zara",
+      "title": "https://warap.net/images/com-nintendo-zara.png",
+      "image": "Super Mario Run"
+    },
+    {
+      "slug": "com-neighbors-darkriddle",
+      "title": "https://warap.net/images/com-neighbors-darkriddle.png",
+      "image": "Dark Riddle"
+    },
+    {
+      "slug": "com-scottgames-fivenightsatfreddys",
+      "title": "https://warap.net/images/com-scottgames-fivenightsatfreddys.png",
+      "image": "Five Nights at Freddy&#x27;s"
+    },
+    {
+      "slug": "com-outfit7-mytalkingangela2",
+      "title": "https://warap.net/images/com-outfit7-mytalkingangela2.png",
+      "image": "My Talking Angela 2"
+    },
+    {
+      "slug": "com-mojang-minecraftpe",
+      "title": "https://warap.net/images/com-mojang-minecraftpe.png",
+      "image": "Minecraft"
+    },
+    {
+      "slug": "com-jamcity-blackforest_goo",
+      "title": "https://warap.net/images/com-jamcity-blackforest_goo.png",
+      "image": "Disney Frozen Adventures"
+    },
+    {
+      "slug": "com-playrix-fishdomdd-gplay",
+      "title": "https://warap.net/images/com-playrix-fishdomdd-gplay.png",
+      "image": "Fishdom"
+    },
+    {
+      "slug": "com-ea-gp-fifamobile",
+      "title": "https://warap.net/images/com-ea-gp-fifamobile.png",
+      "image": "EA SPORTS FC™ Mobile Soccer"
+    },
+    {
+      "slug": "com-rovio-abcasual",
+      "title": "https://warap.net/images/com-rovio-abcasual.png",
+      "image": "Angry Birds Journey"
+    },
+    {
+      "slug": "com-budgestudios-googleplay-BlueyBLU",
+      "title": "https://warap.net/images/com-budgestudios-googleplay-blueyblu.png",
+      "image": "Bluey: Let&#x27;s Play!"
+    },
+    {
+      "slug": "com-youmusic-magictiles",
+      "title": "https://warap.net/images/com-youmusic-magictiles.png",
+      "image": "Magic Tiles 3"
+    },
+    {
+      "slug": "com-TeamTerrible-BabyInYellow",
+      "title": "https://warap.net/images/com-teamterrible-babyinyellow.png",
+      "image": "The Baby In Yellow"
+    },
+    {
+      "slug": "com-outfit7-mytalkingtomfriends",
+      "title": "https://warap.net/images/com-outfit7-mytalkingtomfriends.png",
+      "image": "My Talking Tom Friends"
+    }
+  ],
+  "you_may_like": [
+    {
+      "slug": "com-crazy-block-robo-monster-cliffs-craft",
+      "title": "Block Crazy Robo World",
+      "image": "com-crazy-block-robo-monster-cliffs-craft.png",
+      "developer": "Craft Trending Studio",
+      "rating": "3.6"
+    },
+    {
+      "slug": "com-kongregate-mobile-tmnt-google",
+      "title": "TMNT: Mutant Madness",
+      "image": "com-kongregate-mobile-tmnt-google.png",
+      "developer": "Kongregate",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-playgendary-kickthebuddy",
+      "title": "Kick the Buddy",
+      "image": "com-playgendary-kickthebuddy.png",
+      "developer": "Playgendary Limited",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-tocaboca-tocalifeworld",
+      "title": "Toca Life World: Build a Story",
+      "image": "com-tocaboca-tocalifeworld.png",
+      "developer": "Toca Boca",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-dynlwpp-atur129",
+      "title": "Drawing Carnival",
+      "image": "com-dynlwpp-atur129.png",
+      "developer": "CrazyLabs LTD",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-MOBGames-PoppyMobileChap1",
+      "title": "Poppy Playtime Chapter 1",
+      "image": "com-mobgames-poppymobilechap1.png",
+      "developer": "Mob Entertainment",
+      "rating": "4.1"
+    },
+    {
+      "slug": "com-tocaboca-tocakitchen2",
+      "title": "Toca Boca Jr",
+      "image": "com-tocaboca-tocakitchen2.png",
+      "developer": "Play Piknik",
+      "rating": "4"
+    },
+    {
+      "slug": "com-aim-racing",
+      "title": "Extreme Car Driving Simulator",
+      "image": "com-aim-racing.png",
+      "developer": "AxesInMotion Racing",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-playrix-gardenscapes",
+      "title": "Gardenscapes",
+      "image": "com-playrix-gardenscapes.png",
+      "developer": "Playrix",
+      "rating": "4.7"
+    },
+    {
+      "slug": "com-studio27-MelonPlayground",
+      "title": "Melon Sandbox",
+      "image": "com-studio27-melonplayground.png",
+      "developer": "playducky.com",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-imangi-templerun2",
+      "title": "Temple Run 2",
+      "image": "com-imangi-templerun2.png",
+      "developer": "Imangi Studios",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-santascary-horrorgranny",
+      "title": "Scary Santa Granny",
+      "image": "com-santascary-horrorgranny.png",
+      "developer": "Anas Msiradi",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-nintendo-zaka",
+      "title": "Mario Kart Tour",
+      "image": "com-nintendo-zaka.png",
+      "developer": "Nintendo Co., Ltd.",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDMHM",
+      "title": "Minion Rush: Running Game",
+      "image": "com-gameloft-android-anmp-gloftdmhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-ea-game-pvzfree_row",
+      "title": "Plants vs. Zombies™",
+      "image": "com-ea-game-pvzfree_row.png",
+      "developer": "ELECTRONIC ARTS",
+      "rating": "4.2"
+    },
+    {
+      "slug": "com-codengamesinc-highwayracer3d",
+      "title": "Highway Racer 3D",
+      "image": "com-codengamesinc-highwayracer3d.png",
+      "developer": "Coden Games",
+      "rating": "4"
+    },
+    {
+      "slug": "com-dxm-nopuzzle",
+      "title": "Block Puzzle",
+      "image": "com-dxm-nopuzzle.png",
+      "developer": "Candy Mobile",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-bgg-jump",
+      "title": "Project Makeover",
+      "image": "com-bgg-jump.png",
+      "developer": "Magic Tavern, Inc.",
+      "rating": "4.4"
+    },
+    {
+      "slug": "com-oppanagames-car-simulator",
+      "title": "Car Simulator 2",
+      "image": "com-oppanagames-car-simulator.png",
+      "developer": "OppanaGames FZC LLC",
+      "rating": "4.6"
+    },
+    {
+      "slug": "com-kitkagames-fallbuddies",
+      "title": "Stumble Guys",
+      "image": "com-kitkagames-fallbuddies.png",
+      "developer": "Scopely",
+      "rating": "4.3"
+    },
+    {
+      "slug": "com-scottgames-fnaf3",
+      "title": "Five Nights at Freddy's 3",
+      "image": "com-scottgames-fnaf3.png",
+      "developer": "Clickteam USA LLC",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-gameloft-android-ANMP-GloftDYHM",
+      "title": "Disney Magic Kingdoms",
+      "image": "com-gameloft-android-anmp-gloftdyhm.png",
+      "developer": "Gameloft SE",
+      "rating": "4.5"
+    },
+    {
+      "slug": "com-supercell-clashroyale",
+      "title": "Clash Royale",
+      "image": "com-supercell-clashroyale.png",
+      "developer": "Supercell",
+      "rating": "4.2"
+    }
+  ]
+}
