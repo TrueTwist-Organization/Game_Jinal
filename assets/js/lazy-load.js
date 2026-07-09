@@ -51,6 +51,16 @@ function lazyLoadImgs() {
             };
 
             img.onerror = function () {
+                var loadUrl = this.dataset.load || '';
+                if (!this.dataset.remoteTried && loadUrl.indexOf('img.php') !== -1) {
+                    var match = loadUrl.match(/[?&]f=([^&]+)/);
+                    if (match) {
+                        this.dataset.remoteTried = '1';
+                        this.setAttribute('src', 'https://warap.net/images/' + decodeURIComponent(match[1]));
+                        return;
+                    }
+                }
+
                 hideLoaders(this.parentElement);
             };
 
@@ -70,3 +80,21 @@ document.addEventListener('resize', debounce(function () {
     viewHeight = document.documentElement.clientHeight;
     lazyLoadImgs();
 }, 200));
+
+var screenshotsContent = document.getElementById('main-screenshots-content');
+if (screenshotsContent) {
+    screenshotsContent.addEventListener('scroll', debounce(lazyLoadImgs, 100), { passive: true });
+}
+
+var screenshotsSection = document.querySelector('.screenshots');
+if (screenshotsSection && 'IntersectionObserver' in window) {
+    var screenshotsObserver = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+                lazyLoadImgs();
+            }
+        });
+    }, { rootMargin: '120px 0px' });
+
+    screenshotsObserver.observe(screenshotsSection);
+}

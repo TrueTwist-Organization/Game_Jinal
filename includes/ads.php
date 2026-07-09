@@ -8,10 +8,14 @@ const ADS_DEMO_REWARDED = '/6355419/Travel/Europe/France';
 const ADS_DISPLAY_SIZES = '[[336, 280], [728, 90], \'fluid\']';
 const ADS_DISPLAY_UNITS = [
     'div-gpt-ad-display-top' => '/6355419/Travel/Asia',
-    'div-gpt-ad-display-mid' => '/6355419/Travel',
+    // Must not reuse ADS_DEMO_ANCHOR (/6355419/Travel) — anchor wins SRA and mid stays empty.
+    // Must not reuse ADS_DEMO_REWARDED (/6355419/Travel/Europe/France) — conflicts with rewarded overlay.
+    'div-gpt-ad-display-mid' => '/6355419/Travel/Europe/France/Paris',
     'div-gpt-ad-display-bottom' => '/6355419/Travel/Europe/France/Paris',
 ];
 const ADS_DEMO_ANCHOR = '/6355419/Travel';
+// Homepage: after 2.5 min with zero activity, show rewarded ad on next cursor move.
+const ADS_HOME_IDLE_MS = 150000;
 
 function ads_enabled(): bool
 {
@@ -35,6 +39,36 @@ function ads_rewarded_nav_script(): void
     ?>
     <script>
         (function () {
+            window.__pageAdLock = window.__pageAdLock || {
+                active: null,
+                done: false,
+            };
+
+            function markAdFinished() {
+                window.__pageAdLock.active = null;
+                window.__pageAdLock.done = true;
+            }
+
+            function canStartAd(type) {
+                var lock = window.__pageAdLock;
+                return !lock.done && !lock.active;
+            }
+
+            function beginAd(type) {
+                if (!canStartAd(type)) {
+                    return false;
+                }
+                window.__pageAdLock.active = type;
+                return true;
+            }
+
+            window.__cancelGameAutoReward = function () {
+                if (window.__gameAutoRewardTimer) {
+                    clearTimeout(window.__gameAutoRewardTimer);
+                    window.__gameAutoRewardTimer = null;
+                }
+            };
+
             function ensureDemoOverlay() {
                 var overlay = document.getElementById('demo-reward-overlay');
                 if (overlay) {
@@ -117,7 +151,33 @@ function ads_rewarded_nav_script(): void
                 closeBtn.onclick = finish;
             };
 
-            window.__showRewardedAd = function (onDone) {
+            window.__showRewardedAd = function (onDone, options) {
+                options = options || {};
+                var lock = window.__pageAdLock;
+
+                if (lock.active) {
+                    if (typeof onDone === 'function') {
+                        onDone();
+                    }
+                    return;
+                }
+
+                if (options.force) {
+                    lock.done = false;
+                } else if (lock.done) {
+                    if (typeof onDone === 'function') {
+                        onDone();
+                    }
+                    return;
+                }
+
+                if (!beginAd('rewarded')) {
+                    if (typeof onDone === 'function') {
+                        onDone();
+                    }
+                    return;
+                }
+
                 var done = false;
                 var usingFallback = false;
                 var gptTimeout = null;
@@ -130,6 +190,7 @@ function ads_rewarded_nav_script(): void
                     if (gptTimeout) {
                         clearTimeout(gptTimeout);
                     }
+                    markAdFinished();
                     if (typeof onDone === 'function') {
                         onDone();
                     }
@@ -222,8 +283,42 @@ function ads_rewarded_nav_script(): void
                     link.dataset.rewardBound = '1';
                     link.addEventListener('click', function (event) {
                         event.preventDefault();
+                        if (typeof window.__cancelGameAutoReward === 'function') {
+                            window.__cancelGameAutoReward();
+                        }
                         window.showRewardedThenNavigate(link.href);
                     });
+                });
+            };
+
+            window.bindGameBackButtonReward = function () {
+                if (!window.history || !history.pushState) {
+                    return;
+                }
+
+                history.pushState({ gameBackAd: true }, document.title, location.href);
+
+                window.addEventListener('popstate', function () {
+                    if (window.__gameBackAdExit) {
+                        return;
+                    }
+
+                    history.pushState({ gameBackAd: true }, document.title, location.href);
+
+                    if (typeof window.__cancelGameAutoReward === 'function') {
+                        window.__cancelGameAutoReward();
+                    }
+
+                    if (typeof window.__showRewardedAd !== 'function') {
+                        window.__gameBackAdExit = true;
+                        history.back();
+                        return;
+                    }
+
+                    window.__showRewardedAd(function () {
+                        window.__gameBackAdExit = true;
+                        history.back();
+                    }, { force: true });
                 });
             };
         })();
@@ -321,7 +416,6 @@ function ads_head_static(): void
 
             if (interstitialSlot) {
                 interstitialSlot.addService(googletag.pubads());
-                googletag.display(interstitialSlot);
             }
 
             googletag.pubads().enableSingleRequest();
@@ -364,12 +458,26 @@ function ads_body_first_click_listener(): void
     <script>
         document.addEventListener(
             'click',
-            function () {
+            function (event) {
+                var target = event.target;
+                if (!target || typeof target.closest !== 'function') {
+                    return;
+                }
+
+                // Rewarded-link flows handle their own single ad — don't stack interstitial.
+                if (target.closest('a.game-link, .down-link-item.t-play, .right-rec-container a.game-item')) {
+                    return;
+                }
+
+                if (typeof window.__cancelGameAutoReward === 'function') {
+                    window.__cancelGameAutoReward();
+                }
+
                 if (typeof showInterstitialOnce === 'function') {
                     showInterstitialOnce();
                 }
             },
-            { once: true }
+            { once: true, capture: true }
         );
     </script>
     <?php
@@ -425,7 +533,7 @@ function ads_footer_game(): void
         var anchorSlot;
 
         function showInterstitialOnce(callback) {
-            if (interShown) {
+            if (interShown || (window.__pageAdLock && (window.__pageAdLock.done || window.__pageAdLock.active))) {
                 if (callback) {
                     callback();
                 }
@@ -433,6 +541,9 @@ function ads_footer_game(): void
             }
 
             interShown = true;
+            if (window.__pageAdLock) {
+                window.__pageAdLock.active = 'interstitial';
+            }
 
             googletag.cmd.push(function () {
                 if (interstitialSlot) {
@@ -440,6 +551,10 @@ function ads_footer_game(): void
                 }
 
                 setTimeout(function () {
+                    if (window.__pageAdLock) {
+                        window.__pageAdLock.active = null;
+                        window.__pageAdLock.done = true;
+                    }
                     if (callback) {
                         callback();
                     }
@@ -481,10 +596,6 @@ function ads_footer_game(): void
                 googletag.display(slotId);
             });
 
-            if (interstitialSlot) {
-                googletag.display(interstitialSlot);
-            }
-
             if (anchorSlot) {
                 googletag.display(anchorSlot);
             }
@@ -500,24 +611,114 @@ function ads_footer_game(): void
     </script>
     <?php ads_rewarded_nav_script(); ?>
     <script>
-        // Match original site: auto reward ad ~2s after game page load.
-        setTimeout(function () {
+        // Match original: auto reward ~2s after load, but only if no click ad already ran.
+        window.__gameAutoRewardTimer = setTimeout(function () {
+            window.__gameAutoRewardTimer = null;
+            if (window.__pageAdLock && (window.__pageAdLock.done || window.__pageAdLock.active)) {
+                return;
+            }
             if (typeof window.__showRewardedAd === 'function') {
                 window.__showRewardedAd();
             }
         }, 2000);
 
-        function initGameRewardedLinks() {
+        if (typeof window.bindGameBackButtonReward === 'function') {
+            window.bindGameBackButtonReward();
+        }
+
+        function initSidebarRewardedLinks() {
             if (typeof window.bindRewardedLinks === 'function') {
-                window.bindRewardedLinks('a.game-item');
+                window.bindRewardedLinks('.right-rec-container a.game-item');
             }
         }
 
         if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', initGameRewardedLinks);
+            document.addEventListener('DOMContentLoaded', initSidebarRewardedLinks);
         } else {
-            initGameRewardedLinks();
+            initSidebarRewardedLinks();
         }
+    </script>
+    <?php
+}
+
+function ads_footer_home(): void
+{
+    if (!ads_enabled()) {
+        return;
+    }
+    ?>
+    <script>
+        (function () {
+            var idleMs = <?= ADS_HOME_IDLE_MS ?>;
+            var checkEveryMs = 5000;
+            var lastActivity = Date.now();
+            var idleRewardReady = false;
+            var idleCheckTimer = null;
+
+            function showHomeIdleRewardedAd() {
+                if (window.__pageAdLock && window.__pageAdLock.active) {
+                    return;
+                }
+
+                if (typeof window.__showRewardedAd !== 'function') {
+                    return;
+                }
+
+                lastActivity = Date.now();
+                idleRewardReady = false;
+                window.__showRewardedAd(function () {
+                    lastActivity = Date.now();
+                    idleRewardReady = false;
+                }, { force: true });
+            }
+
+            function resetIdleClock() {
+                lastActivity = Date.now();
+                idleRewardReady = false;
+            }
+
+            function pollIdleState() {
+                if (idleRewardReady) {
+                    return;
+                }
+
+                if (Date.now() - lastActivity >= idleMs) {
+                    idleRewardReady = true;
+                }
+            }
+
+            function onMovementAfterIdle() {
+                if (!idleRewardReady) {
+                    resetIdleClock();
+                    return;
+                }
+
+                showHomeIdleRewardedAd();
+            }
+
+            function startIdleWatcher() {
+                if (idleCheckTimer) {
+                    clearInterval(idleCheckTimer);
+                }
+
+                idleCheckTimer = setInterval(pollIdleState, checkEveryMs);
+            }
+
+            // Any action during the wait period resets the 2.5 min idle clock.
+            var resetEvents = ['mousedown', 'keydown', 'scroll', 'wheel', 'click'];
+
+            resetEvents.forEach(function (eventName) {
+                document.addEventListener(eventName, resetIdleClock, { passive: true });
+            });
+
+            // After 2.5 min of zero activity, the next cursor move shows rewarded ad.
+            document.addEventListener('mousemove', onMovementAfterIdle, { passive: true });
+
+            // Mobile: first touch after idle period shows rewarded ad.
+            document.addEventListener('touchstart', onMovementAfterIdle, { passive: true });
+
+            startIdleWatcher();
+        })();
     </script>
     <?php
 }

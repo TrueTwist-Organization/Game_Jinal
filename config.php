@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-define('SITE_NAME', 'Game Portals');
-define('SITE_BRAND', 'hyygames');
+define('SITE_NAME', 'GameNest');
+define('SITE_BRAND', 'GameNest');
 define('SITE_WEBSITE', 'hyygames.in');
 define('SITE_TAGLINE', 'Play & Download Top Free Mobile Games');
 define('SITE_DESCRIPTION', 'Play and download the best free mobile games! Enjoy action, racing, puzzle, cooking games, and more—fun for all ages and interests.');

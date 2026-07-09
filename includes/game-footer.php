@@ -39,7 +39,7 @@ declare(strict_types=1);
                 <a href="<?= esc(site_url('explore/privacy.php')) ?>" title="Privacy">Privacy Policy</a>
                 <a href="<?= esc(site_url('explore/terms.php')) ?>" title="Terms">Terms Of Services</a>
             </div>
-            <p class="introduce">&copy; <?= esc(SITE_NAME) ?></p>
+            <p class="introduce">&copy; <?= date('Y') ?> <?= esc(SITE_NAME) ?>. All rights reserved.</p>
         </div>
     </footer>
     <script src="<?= esc(site_url('assets/js/lazy-load.js')) ?>"></script>

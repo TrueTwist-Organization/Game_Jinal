@@ -19,5 +19,5 @@ if lsof -ti :"$PORT" >/dev/null 2>&1; then
   sleep 1
 fi
 
-echo "Starting Game Portals at http://localhost:$PORT"
+echo "Starting GameNest at http://localhost:$PORT"
 exec "$PHP" -S "localhost:$PORT" router.php

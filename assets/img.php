@@ -15,6 +15,7 @@ $cacheDir = __DIR__ . '/cache';
 $localDir = __DIR__ . '/images';
 $cacheFile = $cacheDir . '/' . str_replace('/', '__', $file);
 $localFile = $localDir . '/' . $file;
+$remoteUrl = 'https://warap.net/images/' . $file;
 
 if (is_file($localFile) && filesize($localFile) > 0) {
     serve_cached_image($localFile);
@@ -28,12 +29,10 @@ if (is_file($cacheFile) && filesize($cacheFile) > 0) {
     serve_cached_image($cacheFile);
 }
 
-$remoteUrl = 'https://warap.net/images/' . $file;
 $data = fetch_remote($remoteUrl);
 
 if ($data === null || $data === '') {
-    http_response_code(404);
-    exit('Image not found');
+    redirect_to_remote_image($remoteUrl);
 }
 
 file_put_contents($cacheFile, $data);
@@ -41,40 +40,39 @@ serve_cached_image($cacheFile);
 
 function fetch_remote(string $url): ?string
 {
-    if (function_exists('curl_init')) {
-        $ch = curl_init($url);
-        if ($ch === false) {
-            return null;
-        }
-
-        curl_setopt_array($ch, [
-            CURLOPT_RETURNTRANSFER => true,
-            CURLOPT_FOLLOWLOCATION => true,
-            CURLOPT_TIMEOUT => 20,
-            CURLOPT_USERAGENT => 'GamePortals/1.0',
-        ]);
-
-        $data = curl_exec($ch);
-        $code = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
-        curl_close($ch);
-
-        if ($data !== false && $code >= 200 && $code < 300) {
-            return $data;
-        }
-    }
-
     if (function_exists('shell_exec')) {
-        $cmd = 'curl -fsSL --max-time 20 ' . escapeshellarg($url);
+        $cmd = 'curl -fsSL --max-time 20 -A ' . escapeshellarg('GameNest/1.0') . ' ' . escapeshellarg($url);
         $data = shell_exec($cmd);
         if (is_string($data) && $data !== '') {
             return $data;
         }
     }
 
+    if (function_exists('curl_init')) {
+        $ch = curl_init($url);
+        if ($ch !== false) {
+            curl_setopt_array($ch, [
+                CURLOPT_RETURNTRANSFER => true,
+                CURLOPT_FOLLOWLOCATION => true,
+                CURLOPT_TIMEOUT => 20,
+                CURLOPT_USERAGENT => 'GameNest/1.0',
+            ]);
+
+            $data = curl_exec($ch);
+            $code = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
+            curl_close($ch);
+
+            if ($data !== false && $code >= 200 && $code < 300) {
+                return $data;
+            }
+        }
+    }
+
     $context = stream_context_create([
         'http' => [
             'timeout' => 20,
-            'header' => "User-Agent: GamePortals/1.0\r\n",
+            'header' => "User-Agent: GameNest/1.0\r\n",
+            'ignore_errors' => true,
         ],
         'ssl' => [
             'verify_peer' => true,
@@ -83,7 +81,13 @@ function fetch_remote(string $url): ?string
     ]);
 
     $data = @file_get_contents($url, false, $context);
-    return $data !== false ? $data : null;
+    return is_string($data) && $data !== '' ? $data : null;
+}
+
+function redirect_to_remote_image(string $remoteUrl): void
+{
+    header('Location: ' . $remoteUrl, true, 302);
+    exit;
 }
 
 function serve_cached_image(string $path): void
