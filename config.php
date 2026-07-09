@@ -7,8 +7,9 @@ define('SITE_BRAND', 'GameNest');
 define('SITE_WEBSITE', 'hyygames.in');
 define('SITE_TAGLINE', 'Play & Download Top Free Mobile Games');
 define('SITE_DESCRIPTION', 'Play and download the best free mobile games! Enjoy action, racing, puzzle, cooking games, and more—fun for all ages and interests.');
-define('CONTACT_EMAIL', 'ads@komalpankhfashion.in');
-define('TERMS_EMAIL', 'ads@komalpankhfashion.in');
+define('SITE_EMAIL', 'contact@' . SITE_WEBSITE);
+define('CONTACT_EMAIL', SITE_EMAIL);
+define('TERMS_EMAIL', SITE_EMAIL);
 define('ADS_ENABLED', true);
 
 require_once __DIR__ . '/includes/ads.php';

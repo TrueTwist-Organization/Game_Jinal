@@ -43,6 +43,7 @@ declare(strict_types=1);
             </p><br>
             <div class="links">
                 <a href="<?= esc(site_url('explore/contact.php')) ?>" title="Contact">Contact</a>
+                <a href="mailto:<?= esc(CONTACT_EMAIL) ?>" title="Email"><?= esc(CONTACT_EMAIL) ?></a>
                 <a href="<?= esc(site_url('explore/privacy.php')) ?>" title="Privacy">Privacy Policy</a>
                 <a href="<?= esc(site_url('explore/terms.php')) ?>" title="Terms">Terms Of Services</a>
             </div>
