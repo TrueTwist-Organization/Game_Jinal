@@ -11,7 +11,7 @@ $bodyClass = 'static-page-body static-terms';
 require dirname(__DIR__) . '/includes/static-header.php';
 ?>
     <h1>Terms and Conditions</h1>
-    <p><strong>Last updated:</strong> March 22, 2025</p>
+    <p><strong>Last updated:</strong> <?= esc(SITE_LAST_UPDATED) ?></p>
     <a href="<?= esc(site_url('index.php')) ?>" class="btn-home">Back to Home</a>
 
     <p>Please read these Terms and Conditions carefully before using our Service.</p>

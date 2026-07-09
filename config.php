@@ -10,6 +10,7 @@ define('SITE_DESCRIPTION', 'Play and download the best free mobile games! Enjoy 
 define('SITE_EMAIL', 'contact@' . SITE_WEBSITE);
 define('CONTACT_EMAIL', SITE_EMAIL);
 define('TERMS_EMAIL', SITE_EMAIL);
+define('SITE_LAST_UPDATED', 'July 9, 2026');
 define('ADS_ENABLED', true);
 
 require_once __DIR__ . '/includes/ads.php';

@@ -12,7 +12,7 @@ require dirname(__DIR__) . '/includes/static-header.php';
 ?>
     <h1>Privacy Policy</h1>
 
-    <p><strong>Last updated:</strong> March 22, 2025</p>
+    <p><strong>Last updated:</strong> <?= esc(SITE_LAST_UPDATED) ?></p>
     <a href="<?= esc(site_url('index.php')) ?>" class="btn-home">Back to Home</a>
 
     <p>At <?= esc(SITE_BRAND) ?>, your privacy matters to us. This Privacy Policy outlines how we collect, use, and protect your information when you use our services. It also explains your rights and how the law safeguards your personal data.</p>
